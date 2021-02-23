@@ -39,12 +39,19 @@ I also write a Podcast known as Kbdk Talks which can be heard on Major Podcastin
 
 <h2><b>The Story Behind My Blog :</b></h2><br>
 <h3>Part-1 My First Blog:</h3><br>
-<img src="https://github.com/kbdharun/kbdharun/blob/main/Kbdk%20Blogs.png" alt="My Blog Cover Image">
+<br>
 <p>I Started to Blog in Blogger in 2010 , Initially I was Helping my Dad to Write Inspirational and Motivational Articles in <code>Tamil Language</code>, Slowly I started to write more and I started to Learn to Write Websites in 2010. Slowly I learnt HTML and CSS. If you want to be motivated then View my Dad's blog in this Enclosed Link:<a href="https://chinthanaicirpi.blogspot.com"> My Dad's Blog</a>, The Blog might not be perfect as it has not been updated over a Long time to be Frank I lost Intrest in the First Blog.</p><br>
-<h3>Part-2 My Own Blog</h3>
+<h3>Part-2 My Own Blog</h3><br>
+<img src="https://github.com/kbdharun/kbdharun/blob/main/Kbdk%20Blogs.png" alt="My Blog Cover Image"><br>
 <p>I wrote and helped in the Writing of many blogs in Between I usually would do the Template and the Backend work but Suddenly I got an Idea 💡 to Start A blog for myself so I started , Eventually due to the loss of interest I Write an Article once in a while.While I was Writing this Blog I got an Idea to Convert my Blog articles one by one into an Podcast eventually I even lost intrest in it due to Heavy Workload. But I am Still Dedicated and Will Continue Blogging and Podcasting</p><br>
 
-<h2>My Intrests:</h2>
+<h2>My Interests:</h2>
+1.Coding💻<br>
+2.Biology🦠🔬<br>
+3.Overclocking PC💻<br>
+4.Bug Reporting🐛<br>
+5.Writing
+
 
 
 
