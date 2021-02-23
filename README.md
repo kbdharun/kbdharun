@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/kbdharun/kbdharun/blob/main/Cover_Banner.jpg" atl="My cover banner">
+<img src="https://github.com/kbdharun/kbdharun/blob/main/Cover_Banner.png?raw=true" alt="My cover banner">
 
 <h2><b>About Me:</b></h2>
 So,<b>My Full name is K.B.Dharun Krishna</b>. <br>
