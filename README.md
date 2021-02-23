@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 <li>I Actually have a Blog known as #Kbdk Blogs at Blogger, Which you can view it in the enclosed link here:  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
 
-<li>I also have a Podcast known as Kbdk Talks which can be heard on all Major Podcasting Platforms , I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li><br>
+<li>I also have a Podcast known as Kbdk Talks which can be heard on all Major Podcasting Platforms , I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
 
-<h1><a href="https://youtu.be/dQw4w9WgXcQ">My Most Favourite Song Link</a><h1>
+<h1><a href="https://youtu.be/dQw4w9WgXcQ">My Most Favourite Song Link</a></h1>
 
 <h2><b>The Story Behind My Blog :</b></h2><br>
 <h3>Part-1 My First Blog:</h3><br>
