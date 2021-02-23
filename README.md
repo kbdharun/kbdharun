@@ -3,6 +3,9 @@
 <!--
 **kbdharun/kbdharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hello, My name is K.B.Dharun Krishna. 
+Welcome to my GitHub Page 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
