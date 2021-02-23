@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 <br>
 <p>I Started to Blog in Blogger in 2010 , Initially I was Helping my Dad with Blog Templates to the blog in which he Writes Inspirational and Motivational Articles in <code>Tamil Language</code>, Slowly I started to  Learn to code in 2014. Slowly I learnt HTML and CSS. If you want to be motivated then View my Dad's blog in this Enclosed Link:<a href="https://chinthanaicirpi.blogspot.com"> My Dad's Blog</a>, The Blog might not be perfect as it has not been updated over a Long time to be Frank I lost Interest in the Old Blog as it has very old broken scripting and images.</p><br>
 <h3>Part-2 My Own Blog</h3><br>
-<img src="https://github.com/kbdharun/kbdharun/blob/main/Kbdk%20Blogs.png" alt="My Blog Cover Image"><br>
+
 <p>I wrote and helped in the Writing of many blogs in Between 2015-2019. I usually would do the Template and the Backend work but Suddenly I got an Idea 💡 to Start A blog for myself so I started Kbdk Blogs for myself , Unfortunately I could only write an article only once in a while.When I was Writing the Blog I got an Idea to Convert my Blog articles one by one into an Podcast eventually, Unfortunately I couldn't make Podcasts regularly due to the Lack of Equipments and due to a Heavy Workload. But I am Still Dedicated and Will Continue Blogging and Podcasting in my current Blog and Podcast.</p><br>
 
 <h2>My Interests:</h2>
 1.Coding💻
-2.Biology🦠🔬
+2.Biology🦠
 3.Overclocking PC💻
 4.Bug Reporting🐛
 5.Writing<br>
