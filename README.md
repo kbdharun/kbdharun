@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello👋, I am Dharun and Thanks for Dropping by to view my Profile. 
 
 <!--
 **kbdharun/kbdharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, My name is K.B.Dharun Krishna. 
-Welcome to my GitHub Page 
+
+
+
+So, **My Full name is K.B.Dharun Krishna**. 
+I am From _Thanjavur in Tamil Nadu,India_.
+My Friends Usually call me Kbdk as a Short Pet Name or Nickname.
+So, I am Working on to make a Differnce to My Favourite Operating System Windows. I love Spending Hours before my Custom PC. 
+My PC runs on Windows 10 Home
+
