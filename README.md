@@ -50,17 +50,17 @@ Here are some ideas to get you started:
 <p>I wrote and helped in the Writing of many blogs in Between 2015-2019. I usually would do the Template and the Backend work but Suddenly I got an Idea 💡 to Start A blog for myself so I started Kbdk Blogs for myself , Unfortunately I could only write an article only once in a while.When I was Writing the Blog I got an Idea to Convert my Blog articles one by one into an Podcast eventually, Unfortunately I couldn't make Podcasts regularly due to the Lack of Equipments and due to a Heavy Workload. But I am Still Dedicated and Will Continue Blogging and Podcasting in my current Blog and Podcast.</p><br>
 
 <h2>My Interests:</h2>
-1.Coding💻<br>
-2.Biology🦠🔬<br>
-3.Overclocking PC💻<br>
-4.Bug Reporting🐛<br>
-5.Writing<br><br>
+1.Coding💻
+2.Biology🦠🔬
+3.Overclocking PC💻
+4.Bug Reporting🐛
+5.Writing<br>
 
 <h2>List of My Favourite TV Series</h2>
-1.Big Bang Theory<br>
-2.Flash<br>
-3.Arrow<br>
-4.Star Trek Whole Franchise (Most Favourite in it is Startrek Discovery)<br>
+1.Big Bang Theory
+2.Flash
+3.Arrow
+4.Star Trek Whole Franchise (Most Favourite in it is Startrek Discovery)
 <br>
 
 If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdhakbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
