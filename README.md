@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2><b>About Me:</b></h2>
 <ul>
-  <li>So,<b>My Full name is K.B.Dharun Krishna</b>. </li><br>
+  <li>So, <b>My Full name is K.B.Dharun Krishna</b>. </li><br>
 
 <li>I am From <code>Thanjavur in Tamil Nadu,India</code>.</li><br>
 
