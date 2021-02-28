@@ -68,7 +68,7 @@ If you have Read and had come this long way then I am sure you are looking to co
 Thank you for spending your time Reading about me.<br>
 
  <b>Fun Fact:</b> My Favourite Music Video is <b>Never Gonna Give You Up</b><br>
- Also, I might have RICKROLLED you.
+ Also, I might have RICKROLLED you. 😂🤣
 
 
 
