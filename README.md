@@ -70,7 +70,9 @@ Thank you for spending your time Reading about me.<br>
  <b>Fun Fact:</b> My Favourite Music Video is <b>Never Gonna Give You Up</b><br>
  Also, I might have RICKROLLED you. 😂🤣
 
+<p>Want to Know more about me , ok then continue Reading 
 
+So, Did You Know that My Favourite Musician is Micheal Jackson.If you don't now remember it.  </p>
 
 
 
