@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 
 If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdhakbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
 
-Thank you for spending your time Reading about me.<br>
-
  <b>Fun Fact:</b> My Favourite Music Video is <b>Never Gonna Give You Up</b><br>
  Also, I might have RICKROLLED you. 😂🤣
 
@@ -74,5 +72,8 @@ Thank you for spending your time Reading about me.<br>
 
 So, Did You Know that My Favourite Musician is Micheal Jackson.If you don't now remember it.  </p>
 
+My Aim is to contribute something to Github and it's community and make a Difference in it. 
 
+My Profile is not over yet it will be updated Regularly in Regular intervals of time.
 
+Thank you for spending your time Reading about me.<br>
