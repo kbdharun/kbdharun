@@ -80,4 +80,4 @@ My Profile is not over yet it will be updated Regularly in Regular intervals of 
 
 Thank you for spending your time Reading about me.<br>
 
-And have a Great day
+And have a Great day!
