@@ -73,7 +73,7 @@ If you have Read and had come this long way then I am sure you are looking to co
 
 <p>Want to Know more about me , ok then continue Reading 
 
-So, Did You Know that My Favourite Musician is Micheal Jackson.And I like all his songs and albums.  </p>
+So, My Favourite Musician is Micheal Jackson.And I like all his songs and albums.  </p>
 
 My Aim is to contribute something to Github and it's community and make a Difference in it. 
 
