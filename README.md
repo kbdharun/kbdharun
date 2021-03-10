@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <li>So, I am Working on to make a Difference to My <code>Favourite Operating System Windows</code>. I love Spending Hours before my Custom PC.</li> <br>
 
-<li>My PC runs on <b><code>Windows 10 Home</code></b>.In future I might Own an Mac or Upgrade my Existing System to Windows 10 Pro.</li><br>
+<li>My PC runs on <b><code>Windows 10 Home</code></b>.In future I might Own an Mac or Upgrade my Existing System to Windows 10 Pro or any future iteration of Windows.</li><br>
 
 <li>I started Coding when I was 10 Years old , and Learned to Code step be step by myself.</li><br>
 
