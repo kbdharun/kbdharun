@@ -77,6 +77,8 @@ So, My Favourite Musician is Micheal Jackson.And I like all his songs and albums
 
 My Aim is to contribute something to Github and it's community and make a Difference in it. 
 
+🔭 I’m currently working on a way to improve our current generations technologies.
+
 My Profile is not over yet it will be updated Regularly in Regular intervals of time.
 
 Thank you for spending your time Reading about me.<br>
