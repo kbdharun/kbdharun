@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 View My New <a href="https://kbdharun.github.io/kbdharun/">Github Page</a> 
 
-<h2><b>The Story Behind My Blog :</b></h2><br>
+<h2><b>The Story Behind My Blog :</b></h2>
 <h3>Part-1 My First Blog:</h3><br>
 <br>
 <p>I Started to Blog in Blogger in 2010 , Initially I was Helping my Dad with Blog Templates to the blog in which he Writes Inspirational and Motivational Articles in <code>Tamil Language</code>, Slowly I started to  Learn to code in 2014. Slowly I learnt HTML and CSS. If you want to be motivated then View my Dad's blog in this Enclosed Link:<a href="https://chinthanaicirpi.blogspot.com"> My Dad's Blog</a>, The Blog might not be perfect as it has not been updated over a Long time to be Frank I lost Interest in the Old Blog as it has very old broken scripting and images.</p><br>
