@@ -58,12 +58,12 @@ View My New <a href="https://kbdharun.github.io/kbdharun/">Github Page</a>
 4.Bug Reporting🐛<br>
 5.Writing<br>
 
-<h2>List of My Favourite TV Series</h2>
+<h2><b>List of My Favourite TV Series</b></h2>
 1.Big Bang Theory<br>
 2.Flash<br>
 3.Arrow<br>
 4.Star Trek Whole Franchise (Most Favourite in it is Startrek Discovery)
-<br><br>
+<br><br><br>
 
 If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdhakbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
 
