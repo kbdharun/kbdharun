@@ -79,7 +79,7 @@ My Aim is to contribute something to Github and it's community and make a Differ
 
 🔭 I’m currently working on a way to improve our current generations technologies.
 
-Thank you for spending your time Reading about me.<br>
+<b>Thank you for spending your time Reading about me.</b><br>
 
 And have a Great day!<br><br>
 
