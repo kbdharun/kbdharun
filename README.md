@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 <h1><a href="https://youtu.be/dQw4w9WgXcQ">My Most Favourite Song Link</a></h1>
 
-View My New <a href="https://kbdharun.github.io/kbdharun/">Github Page</a> 
+<h3>View My New <a href="https://kbdharun.github.io/kbdharun/">Github Page</a></h3>
 <br><br>
 <h2><b>The Story Behind My Blog :</b></h2>
 <h3>Part-1 My First Blog:</h3><br>
