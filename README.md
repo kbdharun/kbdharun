@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <li>I started Coding when I was 10 Years old , and Learned to Code step be step by myself.</li><br>
 
-<li>I am Good at Web Developing and Know HTML,CSS,XML,AMP thoroughly.I am planning to learn more languages in the Future.</li><br>
+<li>I am Good at Web Developing and Know <code>HTML,CSS,XML,AMP</code> thoroughly.I am planning to learn more languages in the Future.</li><br>
 
 <li>I might be Proficient at Web Developing but I still have a Long way to go for Perfecting my Coding and Developing Skills.</li><br>
 
