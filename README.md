@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 <img src="https://github.com/kbdharun/kbdharun/blob/main/Cover_Banner.png?raw=true" alt="My cover banner"><br>
 
 <h2><b>About Me:</b></h2>
