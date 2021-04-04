@@ -64,6 +64,16 @@ Here are some ideas to get you started:
 3.Arrow<br>
 4.Star Trek Whole Franchise (Most Favourite in it is Startrek Discovery)
 <br><br><br>
+<h2><b>Some of my Favourite Browsers are</b></h2>
+1.Google Chrome Stable<br>
+2.Microsoft Edge stable<br>
+3.Brave Browser<br>
+4.Tor Browser<br>
+5.Opera GX Gaming Browser<br>
+6.Edge Canary<br>
+7.Chrome Dev<br>
+8.Chrome Canary 
+<br><br><br>
 
 If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdhakbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
 
