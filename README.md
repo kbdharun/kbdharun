@@ -98,5 +98,5 @@ And have a Great day!<br><br>
 Have a nice day
 
 <b>View this https://youtu.be/dQw4w9WgXcQ <br><br>
-When you apply Uno reverse card 
+When you apply Uno reverse card 😂🤣
 https://youtu.be/_b5V1wchZJU </b>
