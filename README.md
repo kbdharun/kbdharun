@@ -78,7 +78,7 @@ I am not a big fan of Firefox but I am a huge fan of their contributions to the 
 
 If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdhakbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
 
- <b>Fun Fact:</b> My Favourite Music Video is <b>Never Gonna Give You Up and Take on Me</b><br>
+ <b>Fun Fact:</b><br> My Favourite Music Video is <b>Never Gonna Give You Up and Take on Me</b><br>
  Also, I might have RICKROLLED you. 😂🤣<br>
 
 <p>Want to Know more about me, ok then continue Reading 
