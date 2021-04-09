@@ -83,7 +83,7 @@ If you have Read and had come this long way then I am sure you are looking to co
 
 <p>Want to Know more about me, ok then continue Reading 
 
-So, My Favourite Musician is Micheal Jackson. And I like all his songs and albums.  </p>
+So, <b>My Favourite Musician is Micheal Jackson</b>. And I like all his songs and albums.  </p>
 
 I aim to contribute something to Github and its community and make a difference in it. 
 
@@ -94,9 +94,6 @@ I aim to contribute something to Github and its community and make a difference 
 And have a Great day!<br><br>
 <br>
 <b>Thanks for your Contribution in Making this world a Better Place.</b>
-
-Have a nice day
-
 
 <b>View this https://youtu.be/dQw4w9WgXcQ <br><br>
 When you apply Uno reverse card 😂🤣
