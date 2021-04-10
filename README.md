@@ -75,6 +75,9 @@ Here are some ideas to get you started:
 8.Chrome Canary <br>
 I am not a big fan of Firefox but I am a huge fan of their contributions to the tor project and making tor browser on top of their privacy-focused Firefox Browser<br>
 <br><br><br>
+<h2>Some of my Favourite Softwares or repositories in GitHub</h2><br>
+1.Microsoft Powertoys<br>
+2.Modern Flyout's <br><br>
 
 If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdhakbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
 
