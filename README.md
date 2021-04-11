@@ -93,8 +93,7 @@ I aim to contribute something to Github and its community and make a difference 
 🔭 I’m currently working on a way to improve our current generation's technologies.
 
 <b>Thank you for spending your time Reading about me.</b><br>
-
-And have a Great day!<br><br>
+Have a Great day ahead<br><br>
 <br>
 <b>Thanks for your Contribution in Making this world a Better Place.</b>
 
