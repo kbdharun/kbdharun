@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <li>I Actually have a Blog known as #Kbdk Blogs at Blogger, Which you can view it in the enclosed link here:  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
 
-<li>I also have a Podcast known as <code><b>Kbdk Talks</b></code> which can be heard on all Major Podcasting Platforms , I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
+<li>I also have a Podcast known as <code><b>Dharun Talks (Formerly Kbdk Talks)</b></code> which can be heard on all Major Podcasting Platforms , I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
 <br>
 <h1><a href="https://youtu.be/dQw4w9WgXcQ">My Most Favourite Song Link</a></h1>
