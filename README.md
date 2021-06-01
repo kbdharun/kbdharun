@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 4.Bug Reporting🐛<br>
 5.Writing<br>
 <br>
-<h2><b>Some of my Favourite Browsers are</b></h2>
-1.Google Chrome Stable<br>
-2.Microsoft Edge stable<br>
+<h2><b>Some of my Favourite Browsers in the order of likability is</b></h2>
+1.Microsoft Edge Stable<br>
+2.Google Chrome Stable<br>
 3.Brave Browser<br>
 4.Tor Browser<br>
 5.Opera GX Gaming Browser<br>
 6.Edge Canary<br>
 7.Chrome Dev<br>
-8.Chrome Canary <br>
+
 I am not a big fan of Firefox but I am a huge fan of their contributions to the tor project and making tor browser on top of their privacy-focused Firefox Browser<br>
 <br><br><br>
 <h2>Some of my Favourite Softwares or repositories in GitHub</h2><br>
