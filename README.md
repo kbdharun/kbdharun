@@ -65,10 +65,6 @@ I am not a big fan of Firefox but I am a huge fan of their contributions to the 
 
 If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
 
-<p>Want to Know more about me, ok then continue Reading 
-
-So, <b>My Favourite Musician is Micheal Jackson</b>. And I like all his songs and albums.  </p>
-
 I aim to contribute something to Github and its community and make a difference in it. 
 
 🔭 I’m currently working on a way to improve our current generation's technologies.
