@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <li>So, I am Working on making a Difference to My <code>Favourite Operating System Windows</code>. I love Spending Hours before my Custom PC.</li> <br>
 
-<li>My PC currently runs as of 2021 on <b><code>Windows 10 Home</code></b>.In future I might Own an Mac or Upgrade my Existing System to Windows 10 Pro or any future iteration of Windows.Also, I am a <b>Linux Power user</b> and my Linux Distribution of choice is <code>Ubuntu</code> as it was the first linux distribution that I used and still use today. </li><br>
+<li>My PC currently runs as of 2021 on <b><code>Windows 11 Home</code></b>.In future I might Own an Mac or Upgrade my Existing System to Windows 10 Pro or any future iteration of Windows.Also, I am a <b>Linux Power user</b> and my Linux Distribution of choice is <code>Ubuntu</code> as it was the first linux distribution that I used and still use today. </li><br>
 
 <li>I started Coding when I was 10 years old, and Learned to Code step by step by myself.</li><br>
 
