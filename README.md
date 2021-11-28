@@ -1,4 +1,4 @@
-### Hello👋, I am Dharun Krishna, and Thanks for dropping by to view my Profile. <br>
+### Hello👋, I am Dharun Krishna, Thanks for dropping by to view my Profile. <br>
 
 <!--
 **kbdharun/kbdharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,40 +35,31 @@ Here are some ideas to get you started:
 
 <li>I also have a Podcast known as <code><b>Dharun Talks (Formerly Kbdk Talks)</b></code> which can be heard on all Major Podcasting Platforms , I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
-<br>
-<h3>View My New <a href="https://kbdharun.github.io/kbdharun/">Github Page</a></h3>
 <br><br>
-<h2>My Interests:</h2>
+<h2>Some of My Interests:</h2>
 1.Coding💻<br>
 2.Biology🦠<br>
 3.Overclocking PC💻<br>
 4.Bug Reporting🐛<br>
-5.Writing<br>
+5.Writing🖋️<br>
+6.Retro Gaming🎮<br>
+7.Testing New Tech<br>
 <br>
 <h2><b>Some of my Favourite Browsers in the order of likability is</b></h2>
-1.Microsoft Edge Stable<br>
-2.Google Chrome Stable<br>
-3.Brave Browser<br>
-4.Tor Browser<br>
-5.Opera GX Gaming Browser<br>
-6.Edge Canary<br>
-7.Chrome Dev<br>
+1.Google Chrome Stable<br>
+2.Microsoft Edge Stable<br>
+3.Tor Browser<br>
 
 I am not a big fan of Firefox but I am a huge fan of their contributions to the tor project and making tor browser on top of their privacy-focused Firefox Browser<br>
 <br><br><br>
 <h2>Some of my Favourite Softwares or repositories in GitHub</h2><br>
-1.Microsoft Powertoys<br>
-2.Modern Flyouts <br>
-3.Powershell<br>
-4.Windows Calculator<br>
-5.WSL<br><br>
-
-If you have Read and had come this long way then I am sure you are looking to contact me or want to collaborate with me then feel free to Mail me at <a href="mailto:kbdharunkrishna@gmail.com">kbdharunkrishna@gmail.com</a> 
+1.Retroarch<br>
+2.Microsoft Powertoys<br>
+3.Modern Flyouts <br>
+4.Powershell<br>
+5.Windows Calculator<br>
+6.WSL<br><br>
 
 I aim to contribute something to Github and its community and make a difference in it. 
 
 🔭 I’m currently working on a way to improve our current generation's technologies.
-
-<b>Thank you for spending your time Reading about me.</b><br>
-Have a Great day ahead<br><br>
-<br>
