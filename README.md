@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 <br>
 <img src="https://github.com/kbdharun/kbdharun/blob/main/Cover_Banner.png?raw=true" alt="My cover banner"><br>
-
 <h2><b>About Me:</b></h2>
 <ul>
   <li>So, <b>My name is K.B.Dharun Krishna</b>. </li><br>
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 <li>I also have a Podcast <code><b>Dharun Talks</b></code>where I will be talking about technologies which can be heard on all Major Podcasting Platforms , I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
-<br><br>
+<br>
 <h2>Some of My Interests:</h2>
 1.Coding💻<br>
 2.Biology🦠<br>
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 6.Retro Gaming🎮<br>
 7.Testing New Tech<br>
 
-<br><br><br>
+<br>
 <h2>Some of my Favourite Softwares or repositories in GitHub</h2><br>
 1.Retroarch<br>
 2.Microsoft Powertoys<br>
