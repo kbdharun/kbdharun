@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 5.Windows Calculator<br>
 6.WSL<br><br>
 
-I aim to contribute something to Github and its community and make a difference in it. 
+I aim to contribute something to Github repositories and make a small difference in it. 
 
 🔭 I’m currently working on a way to improve our current generation's technologies.
