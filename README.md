@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/kbdharun/kbdharun/blob/main/Cover_Banner.png?raw=true" alt="My cover banner"><br>
 <h2><b>About Me:</b></h2>
 <ul>
-  <li>So, <b>My name is K.B.Dharun Krishna</b>. </li><br>
+  <li><b>My name is K.B.Dharun Krishna</b>. </li><br>
 
 <li>I am From <code>Thanjavur in Tamil Nadu,India</code>.</li><br>
 
