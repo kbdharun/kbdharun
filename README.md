@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 <li>My PC currently runs as of 2021 on <b><code>Windows 11 Home</code>.</b>Also, I am a <b>Linux user</b> and my Linux Distribution of choice is <code>Ubuntu</code> as it was the first linux distribution that I used and still use today. </li><br>
 
 <li>I am Good at Web Developing and Know <code>some Programming Languages</code>.And I am planning to learn more programming languages in the Future.</li><br>
-
+  
 <li>I have a Blog known as #Kbdk Blogs at Blogger, Which you can view it in the enclosed link here:  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
+  
+<li> My Developer Story ,Certifications and other information is available at <a href="https://stackoverflow.com/story/kbdharun">Stackoverflow</a> and <a href="https://www.linkedin.com/in/kbdk/">Linkedin</a>.</li><br>
 
-<li>I also have a Podcast <code><b>Dharun Talks</b></code>where I will be talking about technologies which can be heard on all Major Podcasting Platforms , I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
+<li>I also have a Podcast <code><b>Dharun Talks</b></code>where I will be talking about technologies which can be heard on all Major Podcasting Platforms.<br> I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
 <br>
 <h2>Some of My Interests:</h2>
