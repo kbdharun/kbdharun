@@ -1,4 +1,4 @@
-### Hello👋, I am Dharun Krishna, Thanks for dropping by to view my Profile. <br>
+### Hello👋, I am Dharun , Thanks for dropping by to view my Profile. <br>
 
 <!--
 **kbdharun/kbdharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<img src="https://github.com/kbdharun/kbdharun/blob/main/Cover_Banner.png?raw=true" alt="My cover banner"><br>
 <h2><b>About Me:</b></h2>
 <ul>
   <li><b>My name is K.B.Dharun Krishna</b>. </li><br>
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
   
 <li>I have a Blog known as #Kbdk Blogs at Blogger, Which you can view it in the enclosed link here:  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
   
-<li> My Developer Story ,Certifications and other information is available at <a href="https://stackoverflow.com/story/kbdharun">Stackoverflow</a> and <a href="https://www.linkedin.com/in/kbdk/">Linkedin</a>.</li><br>
+<li> My Developer Story ,Certifications and other information is available at <a href="https://stackoverflow.com/story/kbdharun">Stackoverflow</a> (<a href="https://stackoverflow.com/users/15733296/k-b-dharun-krishna">Profile</a>) ,<a href="https://www.linkedin.com/in/kbdk/">Linkedin</a> and <a href="https://g.dev/kbdharun">Google Developers</a>.</li><br>
 
 <li>I also have a Podcast <code><b>Dharun Talks</b></code>where I will be talking about technologies which can be heard on all Major Podcasting Platforms.<br> I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
