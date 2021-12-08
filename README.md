@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   <li>My PC currently running on <b><code>Windows 11 Home</code></b> and my laptop is running on <b><code>Ubuntu 20.04</code></b>. I am primarily a <b>Windows user</b> but I also use linux occasionally and my Linux Distribution of choice is <b><code>Ubuntu</code></b> as it was the first linux distribution that I used and still use today and it works well with all my applications,games,hardware compared to other distributions. </li><br>
 
-<li>I am Good at Web Developing and Know <b><code>some Programming Languages</code></b>.And I am planning to learn more programming languages in the Future.</li><br>
+<li>I am Good at Web Developing and know <b><code>some Programming Languages</code></b>.And I am planning to learn more programming languages in the Future.</li><br>
   
 <li>I have a Blog known as #Kbdk Blogs at Blogger, Which you can view it in the enclosed link here:  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
   
