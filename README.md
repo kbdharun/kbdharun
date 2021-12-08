@@ -1,5 +1,4 @@
 ### Hello👋, I am Dharun , Thanks for dropping by to view my Profile. <br>
-
 <!--
 **kbdharun/kbdharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+
 <h2><b>About Me:</b></h2>
 <ul>
   <li><b>My name is K.B.Dharun Krishna</b>. </li><br>
