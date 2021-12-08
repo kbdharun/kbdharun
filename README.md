@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <ul>
   <li><b>My name is K.B.Dharun Krishna</b>. </li><br>
 
-<li>I am From <code>Thanjavur in Tamil Nadu,India</code>.</li><br>
+<li>I am From <b>Thanjavur in Tamil Nadu,India</b>.</li><br>
 
   <li>My PC currently running on <b><code>Windows 11 Home</code></b> and my laptop is running on <b><code>Ubuntu 20.04</code></b>. I am primarily a <b>Windows user</b> but I also use linux occasionally and my Linux Distribution of choice is <b><code>Ubuntu</code></b> as it was the first linux distribution that I used and still use today and it works well with all my applications,games,hardware compared to other distributions. </li><br>
 
