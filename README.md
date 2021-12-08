@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 6.Retro Gaming🎮<br>
 7.Testing New Tech<br>
 8.Benchmarking<br>
+9.Proofreading<br>
 <br>
 <h2>Some of my Favourite Softwares or repositories in GitHub</h2><br>
 1.<a href="https://github.com/libretro/RetroArch">Retroarch</a><br>
