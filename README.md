@@ -42,12 +42,11 @@ Here are some ideas to get you started:
 8.Benchmarking<br>
 <br>
 <h2>Some of my Favourite Softwares or repositories in GitHub</h2><br>
-1.Retroarch<br>
-2.Microsoft Powertoys<br>
-3.Modern Flyouts <br>
-4.Powershell<br>
-5.Windows Calculator<br>
-6.WSL<br><br>
+1.<a href="https://github.com/libretro/RetroArch">Retroarch</a><br>
+2.<a href="https://github.com/microsoft/PowerToys">Microsoft Powertoys</a><br>
+3.<a href="https://github.com/PowerShell/PowerShell">Powershell</a><br>
+4.<a href="https://github.com/microsoft/calculator">Windows Calculator</a><br>
+5.WSL<br><br>
 
 I aim to contribute something to Github repositories and make a small difference in it. 
 
