@@ -29,27 +29,13 @@ Here are some ideas to get you started:
 
 <li>I also have a Podcast <code><b>Dharun Talks</b></code>where I will be talking about technologies which can be heard on all Major Podcasting Platforms.<br> I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
-<br>
 <h2>Some of My Interests:</h2>
-1.Coding💻<br>
-2.Biology🦠<br>
-3.Overclocking PC💻<br>
-4.Bug Reporting🐛<br>
-5.Writing🖋️<br>
-6.Retro Gaming🎮<br>
-7.Testing New Tech<br>
-8.Benchmarking<br>
-9.Proofreading<br>
+Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writing🖋️ , Retro Gaming🎮 , Benchmarking , Proofreading
 <br>
 <h2>Some of my areas of Interests in Tech are</h2>
-1.Virtualisation and Emulation<br>
-2. IoT<br>
-3. AI<br>
-4. Data Science<br>
-5. Open Source softwares<br>
-6. Linux Kernel<br>
-7. Networking <br>
-<h2>Some of my Favourite Softwares or repositories in GitHub</h2><br>
+Virtualisation and Emulation , IoT , AI , Data Science , <b>Open Source softwares</b> , Linux Kernel ,Networking 
+<br>
+<h2>Some of my Favourite Softwares or repositories in GitHub</h2>
 1.<a href="https://github.com/libretro/RetroArch">Retroarch</a><br>
 2.<a href="https://github.com/microsoft/PowerToys">Microsoft Powertoys</a><br>
 3.<a href="https://github.com/PowerShell/PowerShell">Powershell</a><br>
