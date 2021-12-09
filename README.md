@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 2.<a href="https://github.com/microsoft/PowerToys">Microsoft Powertoys</a><br>
 3.<a href="https://github.com/PowerShell/PowerShell">Powershell</a><br>
 4.<a href="https://github.com/microsoft/calculator">Windows Calculator</a><br>
-5.WSL<br><br>
+5.WSL<br>
+6.<a href="https://github.com/Genymobile/scrcpy">Scrcpy</a><br><br>
 
 I aim to contribute something to Github repositories and make a small difference in it. 
 
