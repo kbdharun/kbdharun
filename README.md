@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <li>I am Good at Web Developing and know <b><code>some Programming Languages</code></b>.And I am planning to learn more programming languages in the Future.</li><br>
   
-<li>I have a Blog known as #Kbdk Blogs at Blogger, Which you can view it in the enclosed link here:  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
+<li>I have a Technology Blog at Blogger, Which you can view in the enclosed link :  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
   
-<li> My Developer Story ,Certifications and other information is available at <a href="https://stackoverflow.com/story/kbdharun">Stackoverflow</a> (<a href="https://stackoverflow.com/users/15733296/k-b-dharun-krishna">Profile</a>) ,<a href="https://www.linkedin.com/in/kbdk/">Linkedin</a>, <a href="https://gitlab.com/kbdharun">Gitlab</a> and <a href="https://g.dev/kbdharun">Google Developers</a>.</li><br>
+<li> My Certifications, contributions and other information can be viewed at <a href="https://stackoverflow.com/users/15733296/k-b-dharun-krishna">Stackoverflow</a> (<a href="https://stackoverflow.com/story/kbdharun">Story</a>) ,<a href="https://www.linkedin.com/in/kbdk/">Linkedin</a>, <a href="https://gitlab.com/kbdharun">Gitlab</a> and <a href="https://g.dev/kbdharun">Google Developers</a>.</li><br>
 
-<li>I also have a Podcast <code><b>Dharun Talks</b></code>where I will be talking about technologies which can be heard on all Major Podcasting Platforms.<br> I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
+<li>I also have a Podcast called <code><b>Dharun Talks</b></code>. I have Enclosed the Link to my podcast here : <a href="https://anchor.fm/kbdharun-krishna">My Podcast</a></li>
 </ul>
 <h2>Some of My Interests:</h2>
 Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writing🖋️ , Retro Gaming🎮 , Benchmarking , Proofreading
