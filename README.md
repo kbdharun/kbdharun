@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header Cover Banner](https://user-images.githubusercontent.com/26346867/145350510-4162a799-4035-463f-b85c-bd368b0312fd.png)
-
+<!-- Header Cover Banner Image created using Canva -->
 <h2><b>About Me:</b></h2>
 <ul>
   <li><b>My name is K.B.Dharun Krishna</b>. </li><br>
