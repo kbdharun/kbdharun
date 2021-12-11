@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
  <li>I am a full time Android user, I prefer the freedom and open nature of Android. I like custom ROM's and I had installed some in my old phones.</li><br> 
 
-<li>I am Good at Web Developing and know <b><code>some Programming Languages</code></b>.And I am planning to learn more programming languages in the Future.</li><br>
+<li>I am Good at Web Developing and know <b><code>Some Programming Languages</code></b>. And I am planning to learn more programming languages in the Future.</li><br>
   
 <li>I have a Technology Blog at Blogger, Which you can view in the enclosed link :  <a href="https://kbdkblogs.blogspot.com">My Blog</a></li><br>
   
