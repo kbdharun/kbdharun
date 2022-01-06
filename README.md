@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writing🖋️ , Retro Gaming🎮 , Benchmarking , Proofreading.
 <br>
 <h2>Some of my areas of Interests in Tech are</h2>
-Virtualisation and Emulation , IoT , AI , Data Science , <b>Open Source softwares</b> , Linux Kernel ,Networking. 
+<b>Open Source softwares</b> , <b>Linux</b> , Virtualisation and Emulation , IoT , AI , Data Science , Networking. 
 <br>
 <h2>Some of my Favourite Softwares or repositories in GitHub</h2>
 1.<a href="https://github.com/libretro/RetroArch">Retroarch</a><br>
