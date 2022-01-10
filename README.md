@@ -38,10 +38,7 @@ Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writ
 <h2>Some of my areas of Interests in Tech are</h2>
 <b>Open Source softwares</b> , <b>Linux🐧</b> , Virtualisation and Emulation , IoT , AI , Data Science , Networking🕸️. 
 <br>
-<h2>Some of my Favourite Softwares or repositories in GitHub</h2>
-1.<a href="https://github.com/libretro/RetroArch">Retroarch</a><br>
-2.<a href="https://github.com/Genymobile/scrcpy">Scrcpy</a><br><br>
-You can check out more of my favourite repositories in my starred repositories.<br> <br>
+You can check out my favourite repositories and softwares in starred and pinned repositories in my profile.<br> <br>
 I aim to contribute something to Github repositories and make a small difference in it. 
 
 🔭 I’m currently working on a way to improve our current generation's technologies.
