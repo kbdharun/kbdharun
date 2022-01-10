@@ -37,7 +37,7 @@ Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writ
 <br>
 <h2>Some of my areas of Interests in Tech are</h2>
 <b>Open Source softwares</b> , <b>Linux🐧</b> , Virtualisation and Emulation , IoT , AI , Data Science , Networking🕸️. 
-<br>
+<br><br>
 You can check out my favourite repositories and softwares in starred and pinned repositories in my profile.<br> <br>
 I aim to contribute something to Github repositories and make a small difference in it. 
 
