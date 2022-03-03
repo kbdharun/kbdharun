@@ -40,5 +40,5 @@ Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writ
 <br><br>
 You can check out my favourite repositories and softwares in starred and pinned repositories in my profile.
 <br> <br>
-I aim to contribute something to Github repositories and make a small difference in it. 
+I aim to contribute something to Github repositories and make a small difference in it. <br>
 🔭 I’m currently working on a way to improve our current generation's technologies.
