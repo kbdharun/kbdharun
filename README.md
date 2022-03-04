@@ -15,7 +15,7 @@
   
 <li>I have a Technology and Educational Blog (<a href="https://kbdkblogs.blogspot.com"><b>Link</b></a>) in Blogger with posts made in it occationally  .</li><br>
   
-<li> My Certifications, contibutions and other information can be viewed at <b><code><a href="https://stackoverflow.com/users/15733296/k-b-dharun-krishna">Stackoverflow</a>,<a href="https://www.linkedin.com/in/kbdk/">Linkedin</a></code></b>.</li><br>
+<li> My Certifications, contributions and other information can be viewed at <b><code><a href="https://stackoverflow.com/users/15733296/k-b-dharun-krishna">Stackoverflow</a>,<a href="https://www.linkedin.com/in/kbdk/">Linkedin</a></code></b>.</li><br>
 
 <li> Also , you can check out my other Contributions in <b><code><a href="https://gitlab.com/kbdharun">Gitlab</a></code></b> .</li><br>
 
