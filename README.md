@@ -7,7 +7,7 @@
 
 <li>I am from <b>Thanjavur,Tamil Nadu,India</b>.</li><br>
 
- <li>My PC is currently running on <b><code>Windows 11 Home</code></b> and my laptop is currently running on <b><code>Ubuntu 20.04 LTS</code></b>. I am both a <b>Windows and Linux user</b>. My primary Linux Distribution of choice is <b><code>Ubuntu</code></b> as it was the first linux distribution that I used and still use today and it works well with all my applications,games,hardware compared to other distributions.I also use Arch Linux and love tinkering with Arch. My preferred Desktop Environments is GNOME and KDE Plasma.</li><br>
+ <li>My PC is currently running on <b><code>Windows 11 Home</code></b> and my laptop is currently running on <b><code>Ubuntu 21.10</code></b>. I am both a <b>Windows and Linux user</b>. My primary Linux Distribution of choice is <b><code>Ubuntu</code></b> as it was the first linux distribution that I used and still use today and it works well with all my applications,games,hardware compared to other distributions.I also use Arch Linux and love tinkering with Arch. My preferred Desktop Environments is GNOME and KDE Plasma.</li><br>
    
  <li>I am a full time Android user, I prefer the freedom and open nature of Android.</li><br> 
 
