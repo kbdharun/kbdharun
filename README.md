@@ -7,7 +7,7 @@
 
 <li>I am from <b>Thanjavur,Tamil Nadu,India</b>.</li><br>
 
- <li>My PC is currently running on <b><code>Windows 11 Home</code></b> and my laptop is currently running on <b><code>Fedora Linux 36 (Workstation Edition)</code></b>. I am both a <b>Windows and Linux user</b>. My Linux Distribution of choice is <b><code>Ubuntu and Fedora</code></b> as it works well with all my applications,games,hardware compared to other distributions.I also use Arch Linux in VM. My preferred Desktop Environments is GNOME and KDE Plasma.</li><br>
+ <li>My PC is currently running on <b><code>Windows 11 Home</code></b> and my laptop is currently running on <b><code>Fedora Linux 36 (Workstation Edition)</code></b>.My Linux Distribution of choice is <b><code>Ubuntu and Fedora</code></b> as it works well with all my applications,games,hardware compared to other distributions.I also use Arch Linux in VM. My preferred Desktop Environments is GNOME and KDE Plasma.</li><br>
    
  <li>I am a full time Android user, I prefer the freedom and open nature of Android.</li><br> 
 
