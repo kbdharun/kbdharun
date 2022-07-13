@@ -3,7 +3,8 @@
 <h2><b>About Me</b></h2>
 <ul>
   <li><b> Hi👋,This is K.B.Dharun Krishna</b> (he/him) from <b>India</b>.</li><br>
-  <li>I do some Developing in my free time and know some Programming Languages and I am planning to learn more in future. I am obsessed with Linux and I love helping others with their tech queries.</li><br>
+  <li>I do some Developing in my free time and know some Programming Languages and I am planning to learn more in future.</li><br>
+  <li>I am obsessed with Linux and I love helping others with their tech queries.</li><br>
  </ul>
 <h2><b>Software Information and Preferences</b></h2>
 <ul>
