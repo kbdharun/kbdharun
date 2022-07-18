@@ -5,6 +5,8 @@
   <li><b> Hi👋,This is K.B.Dharun Krishna</b> (he/him) from <b>India</b>.</li>
   <li>I do some Developing in my free time and know some Programming Languages and I am planning to learn more in future.</li>
   <li>I am obsessed with GNU/Linux 🐧 and I love helping others with their tech queries.</li>
+  <li>I love writing and I am a passionate content writer. I write and work on articles and blog posts in my free time. </li>
+  <li> I am open to any freelance remote jobs in content writing.</li>
  </ul>
 <h2><b>Software Information and Preferences</b></h2>
 <ul>
@@ -12,6 +14,15 @@
   <li>I am a full time <code><b>android user</b></code>, I prefer the freedom and open nature of android.</li>
   <li>My preferred editors are Gedit,Vim,Nano in GNU/Linux and VSCode in Windows.</li><br>
 </ul>
+<details>
+<summary><b>Languages 🛠️</b></summary>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>C</li>
+  <li>C++</li>
+</ul>
+</details>
 <h2>Interests</h2>
 <ul>
  <li><h3>General Interests</h3>
@@ -28,6 +39,6 @@ Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writ
 <li>You can check out my favourite repositories and softwares in starred and pinned repositories in my profile.</li><br>
 </ul>
 
-I aim to contribute to various repositories,projects and make a small difference in it. And I’m currently working on a way to improve our current generation's technologies.<br><br>
-<b>Thanks for dropping by to view my profile btw🙂.<br>
+I aim to contribute to various repositories and projects. And I am currently working on improving our current generation's technologies.<br><br>
+<b>Thanks for dropping by to view my profile🙂.<br>
 Have a nice day😄😉.</b>
