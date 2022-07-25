@@ -17,10 +17,11 @@
 <details>
 <summary><b>Languages 🛠️</b></summary>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>C</li>
-  <li>C++</li>
+  <li>HTML ✅</li>
+  <li>CSS 📖</li>
+  <li>C ✅</li>
+  <li>C++ ✅</li>
+  <li>Rust 📖</li>
 </ul>
 </details>
 <h2>Interests</h2>
