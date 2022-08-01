@@ -6,7 +6,7 @@
   <li>I code in my free time. I know some Programming Languages,Applications and I am planning to learn more in the future.</li>
   <li>I am obsessed with GNU/Linux 🐧 and I love helping others with their tech queries.</li>
   <li>I love writing and I am a passionate content writer. I write and work on articles and blog posts in my free time. </li>
-  <li> I am open to any freelance remote jobs in content writing.</li>
+  <li>I am open to any freelance remote jobs in content writing.</li>
  </ul>
 <h2><b>Software Information and Preferences</b></h2>
 <ul>
