@@ -7,7 +7,8 @@
   <li>I am obsessed with GNU/Linux 🐧 and I love helping others with their tech queries.</li>
   <li>I love writing and I am a passionate content writer. I write and work on articles and blog posts in my free time. </li>
   <li>I am open to any freelance remote jobs in content writing.</li>
-  <li>I am open to volunteering for application, documentation translations to Tamil. 
+  <li>I am open to volunteering for application, documentation translations to Tamil.</li>
+  <li>I aim to contribute to various repositories and projects. And I am currently working on improving our current generation's technologies.</li>
  </ul>
 <h2><b>Software Information and Preferences </b></h2>
 <ul>
@@ -22,20 +23,8 @@
 <li>I have a Technology and Educational Blog (<a href="https://kbdkblogs.blogspot.com"><b>Link</b></a>) in Blogger where I make some posts occasionally  .</li>
 <li>You can check out my favourite repositories and softwares in starred and pinned repositories in my profile.</li><br>
 </ul>
-<h2><b>Languages 🛠️ and Applications </b></h2>
-<div align="center">
-
-|Language  | Learnt ✅, Learning 📖| Applications | Learnt ✅, Learning 📖 |
-|:--------:|:----------------------:|:------------:|:-----------------------:|
-|HTML      | ✅                    |Git           | ✅                       |
-|CSS       | 📖                    |GCC,G++       | ✅                      |
-|Javascript| 📖                    |VSCode        | ✅                      |
-|Markdown  | ✅                    |Github        | ✅                      |
-|C         | ✅                    |Gitlab        | ✅                      |
-|C++       | ✅                    |Virtualbox    | ✅                      |
-|Rust      | 📖                    |              |                          |
-
-</div>
+<h2><b>Languages 🛠️</b></h2>
+Markdown✅, HTML ✅, CSS 📖, Javascript📖, C ✅, C++ ✅, Java📖, Rust 📖. <br>
 <h2>Interests</h2>
 <ul>
  <li><h3>General Interests</h3>
@@ -43,8 +32,7 @@ Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writ
  </li>
 <li><h3>Areas of Interests</h3>
 <b>Open Source software</b> , <b>GNU/Linux🐧</b> , Virtualisation and Emulation , IoT , AI , Data Science , <b>Networking</b>🕸️. </li>
-</ul>
+</ul><br>
 
-I aim to contribute to various repositories and projects. And I am currently working on improving our current generation's technologies.<br><br>
 <b>Thanks for dropping by to view my profile🙂.<br>
 Have a nice day😄😉.</b>
