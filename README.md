@@ -16,7 +16,7 @@
   <li>I am a full time <code><b>Android user</b></code>, I prefer the freedom and open nature of Android.</li>
   <li>My preferred editors are Gedit,Vim,Nano in GNU/Linux and VSCode in Windows.</li>
 </ul>
-<h2>Know more about me and my works</h2>
+<h2><b>Know more about me and my works</b></h2>
 <ul>  
 <li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">Linkedin</a></b> profile to know more about me.</li>
   <li> Also , you can check out my other profiles in <b><a href="https://gitlab.com/kbdharun">Gitlab</a></b> and <b><a href="https://gitlab.gnome.org/kbdharun">GNOME Gitlab</a></b> .</li>
@@ -25,7 +25,7 @@
 </ul>
 <h2><b>Languages 🛠️</b></h2>
 Markdown✅, HTML ✅, CSS 📖, Javascript📖, C ✅, C++ ✅, Java📖, Rust 📖. <br>
-<h2>Interests</h2>
+<h2><b>Interests</b></h2>
 <ul>
  <li><h3>General Interests</h3>
 Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writing🖋️ , Retro Gaming🎮 , Benchmarking , Proofreading.
