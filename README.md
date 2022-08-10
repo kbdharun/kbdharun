@@ -22,6 +22,7 @@
 <li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">Linkedin</a></b> profile to know more about me.</li>
   <li> Also , you can check out my other contributions in <b><a href="https://gitlab.com/kbdharun">Gitlab</a></b> and <b><a href="https://gitlab.gnome.org/kbdharun">GNOME Gitlab</a></b> .</li>
 <li>I have a Technology and Educational Blog (<a href="https://kbdkblogs.blogspot.com"><b>Link</b></a>) in Blogger where I make some posts occasionally  .</li>
+  <li>Check out my Tamil translations in <a href="https://hosted.weblate.org/user/kbdharunkrishna/">Weblate</a>,<a href="https://crowdin.com/profile/kbdharun">Crowdin</a>,<a href="https://translate.fedoraproject.org/user/kbdharun/">Fedora Weblate</a>.
 <li>You can check out my favourite repositories and softwares in starred and pinned repositories in my profile.</li>
 </ul>
 <h2><b>Languages 🛠️</b></h2>
