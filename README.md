@@ -5,11 +5,10 @@
   <li><b> Hi👋,This is K.B.Dharun Krishna</b> (he/him) from <b>India</b>.</li>
   <li>I code in my free time. I know some Programming Languages,Applications and I am planning to learn more in the future.</li>
   <li>I am obsessed with GNU/Linux 🐧 & Opensource Software(OSS).</li>
-  <li>I love helping others with their tech queries.</li>
   <li>I love writing and I am a passionate content writer. I write and work on articles and blog posts in my free time. </li>
   <li>I am open to any freelance remote jobs in content writing.</li>
-  <li>I am open to volunteering for application, documentation localisation translations to Tamil.</li>
-  <li>I aim to contribute to various repositories and projects. And I am currently working on improving our current generation's technologies.</li>
+  <li>I am open to volunteering for application and documentation translations to Tamil.</li>
+  <li>I aim to make a small difference by contributing to various projects. And I am currently working on improving our current generation's technologies by localising it and making it accessible to everybody.</li>
  </ul>
 <h2><b>Software Information and Preferences </b></h2>
 <ul>
