@@ -33,4 +33,6 @@ Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writ
 </ul>
 
 <b>Thanks for dropping by to view my profile🙂.<br>
-Have a nice day😄😉.</b>
+Have a nice day😄😉.</b><br>
+![Dharun Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbdharun&show_icons=true_color=fff&theme=dark) | ![Dharun Krishna's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kbdharun&theme=dark) |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
