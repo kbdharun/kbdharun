@@ -19,7 +19,7 @@
 <ul>
 <li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">Linkedin</a></b> profile to know more about me.</li>
 <li>I have a Technology and Educational Blog (<a href="https://kbdkblogs.blogspot.com"><b>Link</b></a>) in Blogger where I make some posts occasionally  .</li>
-<li> Check out my other (contributions,roles)[CONTRIBUTIONS.md] and my work in (Localisation)[TRANSLATION.md].</li>
+<li> Check out my other [contributions,roles](CONTRIBUTIONS.md) and my work in [Localisation](TRANSLATION.md).</li>
 <li>Check out my favourite repositories in starred repositories in my profile.</li>
 </ul>
 <h2><b>Languages 🛠️</b></h2>
