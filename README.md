@@ -18,12 +18,11 @@
 <h2><b>Know more about me and my works</b></h2>
 <ul>
 <li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">Linkedin</a></b> profile to know more about me.</li>
-<li>I have a Technology and Educational Blog (<a href="https://kbdkblogs.blogspot.com"><b>Link</b></a>) in Blogger where I make some posts occasionally  .</li>
-<li> Check out my other [contributions,roles](CONTRIBUTIONS.md) and my work in [Localisation](TRANSLATION.md).</li>
-<li>Check out my favourite repositories in starred repositories in my profile.</li>
+<li>I have a <b><a href="https://kbdkblogs.blogspot.com">Technology and Educational Blog</a></b> in Blogger where I make some posts occasionally  .</li>
+<li> Check out my other <a href="https://github.com/kbdharun/kbdharun/blob/main/CONTRIBUTIONS.md"><b>Contributions</b></a> and my work in <a href="https://github.com/kbdharun/kbdharun/blob/main/TRANSLATION.md"><b>Localisation</b></a>.</li>
 </ul>
 <h2><b>Languages 🛠️</b></h2>
-Markdown✅, HTML ✅, CSS 📖, Javascript📖, C ✅, C++ ✅, Java📖, Rust 📖. <br>
+Markdown✅, HTML ✅, CSS 📖, Javascript📖, C ✅, C++ ✅, Java📖, Rust 📖. 
 <h2><b>Interests</b></h2>
 <ul>
  <li><h3>General Interests</h3>
