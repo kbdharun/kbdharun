@@ -4,7 +4,9 @@
 - In this file I will list some of my work and contributions in localisation.
 - You can find most of my work in localisation in [**Weblate**](https://hosted.weblate.org/user/kbdharunkrishna) and [**Crowdin**](https://crowdin.com/profile/kbdharun). 
 
-## Projects that I have contributed translations to
+## Projects
+
+Listed below are some projects that I contributed translations to 
 
 1. In [**tldr-pages**](https://github.com/kbdharun/tldr), I translated some commands to Tamil and I review, validate translations in pull requests.
 
@@ -14,9 +16,11 @@
 
 4. I translated [**Collision**](https://github.com/GeopJr/Collision) (A GUI tool to generate, compare and verify MD5, SHA-1, SHA-256 & SHA-512 hashes.) to Tamil using Weblate. [August 2022]
 
-5. I translated [**Rnote**](https://github.com/flxzt/rnote) (Application for Sketching and taking handwritten notes in Linux)[*Alternative to Xournal++*] to Tamil. [August 2022]
+5. I translated [**Rnote**](https://github.com/flxzt/rnote) (Application for Sketching and taking handwritten notes in Linux)[*Alternative to Xournal++*] to Tamil using Weblate. [August 2022]
 
 6. I translated [**Mousai**](https://github.com/SeaDve/Mousai) (*Linux alternative to Shazam* to Identify songs in seconds) to Tamil. The translation file can be found [here](https://github.com/SeaDve/Mousai/blob/main/po/ta.po) . [August 2022]
+
+7. I translated [**Blur-my-shell**](https://github.com/aunetx/blur-my-shell) (*It is an extensions which adds a blur look to GNOME Shell components*) to Tamil. The translation file can be found [here](https://github.com/aunetx/blur-my-shell/blob/master/po/ta.po) . [August 2022]
 
 ## Featured 
 
