@@ -9,6 +9,8 @@
 
 - [tldr-pages](https://github.com/kbdharun/tldr), I translated some commands to Tamil and I review, validate translations in pull requests.
 
+- I translated [Wike](https://github.com/hugolabe/Wike) (A Wikipedia reader for GNOME) to Tamil at POEditor.
+
 ## Featured 
 
 - I got featured in [Bottles](https://github.com/bottlesdevs/Bottles) [website](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [2022.8.14-brescia](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [Archived link](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/).
