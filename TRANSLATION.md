@@ -1,4 +1,4 @@
-# Translations
+# Translation
 
 - I think technology must be accessible to everybody through localisation.
 - You can find most of my work in localisation in [**Weblate**](https://hosted.weblate.org/user/kbdharunkrishna) and [**Crowdin**](https://crowdin.com/profile/kbdharun). 
