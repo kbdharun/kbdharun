@@ -18,9 +18,10 @@ Listed below are some projects that I contributed translations to
 
 5. I translated [**Rnote**](https://github.com/flxzt/rnote) (Application for Sketching and taking handwritten notes in Linux)[*Alternative to Xournal++*] to Tamil using Weblate. [August 2022]
 
-6. I translated [**Mousai**](https://github.com/SeaDve/Mousai) (*Linux alternative to Shazam* to Identify songs in seconds) to Tamil. The translation file can be found [here](https://github.com/SeaDve/Mousai/blob/main/po/ta.po) . [August 2022]
+6. I translated [**Mousai**](https://github.com/SeaDve/Mousai) (*Linux alternative to Shazam* to Identify songs in seconds) to Tamil using Weblate. The translation file can be found [here](https://github.com/SeaDve/Mousai/blob/main/po/ta.po) . [August 2022]
 
-7. I translated [**Blur-my-shell**](https://github.com/aunetx/blur-my-shell) (*It is an extensions which adds a blur look to GNOME Shell components*) to Tamil. The translation file can be found [here](https://github.com/aunetx/blur-my-shell/blob/master/po/ta.po) . [August 2022]
+7. I translated [**Blur-my-shell**](https://github.com/aunetx/blur-my-shell) (*It is an extensions which adds a blur look to GNOME Shell components*) to Tamil using Weblate. The translation file can be found [here](https://github.com/aunetx/blur-my-shell/blob/master/po/ta.po) . [August 2022]
+ 
 
 ## Featured 
 
