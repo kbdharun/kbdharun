@@ -13,7 +13,7 @@ Listed below are some projects that I contributed translations to
 
 3. I translated [**Wike**](https://github.com/hugolabe/Wike) (*A Wikipedia reader for GNOME*) to Tamil at POEditor. [August 2022]
 
-4. I translated [**Collision**](https://github.com/GeopJr/Collision) (A GUI tool to generate, compare and verify MD5, SHA-1, SHA-256 & SHA-512 hashes) to Tamil using Weblate. [August 2022]
+4. I translated [**Collision**](https://github.com/GeopJr/Collision) (A GUI tool to generate, compare and verify MD5, SHA-1, SHA-256 & SHA-512 hashes) to Tamil using Weblate. The translation file can be found [here](https://github.com/GeopJr/Collision/blob/main/po/ta.po). [August 2022]
 
 5. I translated [**Rnote**](https://github.com/flxzt/rnote) (Application for Sketching and taking handwritten notes in Linux)[*Alternative to Xournal++*] to Tamil using Weblate. [August 2022]
 
