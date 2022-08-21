@@ -19,7 +19,9 @@ Listed below are some projects that I contributed translations to
 
 6. I translated [**Mousai**](https://github.com/SeaDve/Mousai) (*Linux alternative to Shazam* to Identify songs in seconds) to Tamil using Weblate. The translation file can be found [here](https://github.com/SeaDve/Mousai/blob/main/po/ta.po) . [August 2022]
 
-7. I translated [**Blur-my-shell**](https://github.com/aunetx/blur-my-shell) (*It is an extension which adds a blur look to GNOME Shell components*) to Tamil using Weblate. The translation file can be found [here](https://github.com/aunetx/blur-my-shell/blob/master/po/ta.po) . [August 2022]
+7. I translated [**Blur-my-shell**](https://github.com/aunetx/blur-my-shell) (*A GNOME* (Desktop Environment) *extension which adds a blur look to GNOME Shell components*) to Tamil using Weblate. The translation file can be found [here](https://github.com/aunetx/blur-my-shell/blob/master/po/ta.po) . [August 2022]
+
+8. I translated [**Identity**](https://gitlab.gnome.org/YaLTeR/identity) (*A flatpak* (Linux App Packaging Format) *application which can compare multiple images and videos.*) to Tamil at PoEditor. [August 2022]
  
 
 ## Featured 
