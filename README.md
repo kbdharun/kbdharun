@@ -22,7 +22,7 @@
 <li> Check out my other <a href="https://github.com/kbdharun/kbdharun/blob/main/CONTRIBUTIONS.md"><b>Contributions</b></a> and my work in <a href="https://github.com/kbdharun/kbdharun/blob/main/TRANSLATION.md"><b>Localisation</b></a>.</li>
 </ul>
 <h2><b>Languages 🛠️</b></h2>
-Markdown✅, HTML ✅, CSS 📖, Javascript📖, C ✅, C++ ✅, Java📖, Rust 📖. 
+Markdown ✅, HTML ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, Java 📖, Rust 📖. 
 <h2><b>Interests</b></h2>
 <ul>
  <li><h3>General Interests</h3>
