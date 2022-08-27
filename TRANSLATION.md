@@ -29,6 +29,8 @@ Listed below are some projects that I contributed translations to
 
 11. I translated [**Video Trimmer**](https://gitlab.gnome.org/YaLTeR/video-trimmer) (*A quick video trimmer for Linux*) to Tamil using POEditor. [August 2022]
 
+12. I translated [**Flathub's**](https://flathub.org) [*new website*](https://beta.flathub.org) at [GitHub](https://github.com/flathub/website) to Tamil using weblate.  [August 2022]
+
 ## Featured 
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [website](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
