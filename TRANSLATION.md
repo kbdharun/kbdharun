@@ -31,6 +31,6 @@ Listed below are some projects that I contributed translations to
 
 ## Featured 
 
-- I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [website](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)]
+- I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [website](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
 
-- I got featured in [**Dialect**](https://github.com/dialect-app/dialect) as a **Transaltion Maintainer** for Tamil (ta locale) in their [**translation repository**](https://github.com/dialect-app/po).
+- I got featured in [**Dialect**](https://github.com/dialect-app/dialect) as a **Transaltion Maintainer** for Tamil (ta locale) in their [**translation repository**](https://github.com/dialect-app/po). [August 2022]
