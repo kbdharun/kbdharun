@@ -1,7 +1,7 @@
-# Translation
+# My Works in Translation
 
-- I think technology must be accessible to everybody through localisation.
-- You can find most of my work in localisation in [**Weblate**](https://hosted.weblate.org/user/kbdharunkrishna) and [**Crowdin**](https://crowdin.com/profile/kbdharun). 
+- I think technology must be accessible to everybody, and the best way to make it more accessible is through localisation. With this goal in mind I started localising various projects to **Tamil**.
+- You can find some of my work in localisation in [**Weblate**](https://hosted.weblate.org/user/kbdharunkrishna) and [**Crowdin**](https://crowdin.com/profile/kbdharun). 
 
 ## Projects
 
