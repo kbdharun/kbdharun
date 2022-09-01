@@ -17,7 +17,7 @@
 </ul>
 <h2><b>Know more about me and my works</b></h2>
 <ul>
-<li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">Linkedin</a></b> profile to know more about me.</li>
+<li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">LinkedIn</a></b> profile to know more about me.</li>
 <li>I have a <b><a href="https://kbdkblogs.blogspot.com">Technology and Educational Blog</a></b> in Blogger where I make some posts occasionally  .</li>
 <li> Check out my other <a href="https://github.com/kbdharun/kbdharun/blob/main/CONTRIBUTIONS.md"><b>Contributions</b></a> and my work in <a href="https://github.com/kbdharun/kbdharun/blob/main/TRANSLATION.md"><b>Localisation</b></a>.</li>
 </ul>
