@@ -31,6 +31,8 @@ Listed below are some projects that I contributed translations to
 
 12. I translated [**Flathub's**](https://flathub.org) [*new website*](https://beta.flathub.org) at [GitHub](https://github.com/flathub/website) to Tamil using weblate.  [August 2022]
 
+13. I translated [**Butter**](https://flathub.org) (*Btrfs snapshot management GUI frontend*) to Tamil using Poedit.  [September 2022]
+
 ## Featured 
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
