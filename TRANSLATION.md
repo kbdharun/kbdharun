@@ -31,7 +31,7 @@ Listed below are some projects that I contributed translations to
 
 12. I translated [**Flathub's**](https://flathub.org) [*new website*](https://beta.flathub.org) at [GitHub](https://github.com/flathub/website) to Tamil using weblate.  [August 2022]
 
-13. I translated [**Butter**](https://flathub.org) (*Btrfs snapshot management GUI frontend*) to Tamil using Poedit.  [September 2022]
+13. I translated [**Butter**](https://github.com/zhangyuannie/butter) (*Btrfs snapshot management GUI frontend*) to Tamil using Poedit.  [September 2022]
 
 ## Featured 
 
