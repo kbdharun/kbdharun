@@ -29,11 +29,13 @@ Listed below are some projects that I contributed translations to
 
 11. I translated [**Video Trimmer**](https://gitlab.gnome.org/YaLTeR/video-trimmer) (*A quick video trimmer for Linux*) to Tamil using POEditor. [August 2022]
 
-12. I translated [**Flathub's**](https://flathub.org) [*new website*](https://beta.flathub.org) at [GitHub](https://github.com/flathub/website) to Tamil using weblate.  [August 2022]
+12. I translated [**Flathub's**](https://flathub.org) [*new website*](https://beta.flathub.org) at [GitHub](https://github.com/flathub/website) to Tamil using weblate. The translation file can be found [here](https://github.com/flathub/website/tree/main/frontend/public/locales/ta).  [August 2022]
 
 13. I translated [**Butter**](https://github.com/zhangyuannie/butter) (*Btrfs snapshot management GUI frontend*) to Tamil using Poedit.  [September 2022]
 
 14. I translated [**Flatseal**](https://github.com/tchx84/Flatseal) (*Linux application to manage Flatpak permissions*) to Tamil using Poedit.  [September 2022]
+
+15. I translated [**Arch install**](https://github.com/archlinux/archinstall) (*Guided Arch Linux installer*) to Tamil using Poedit. The translation files can be found [here](https://github.com/archlinux/archinstall/tree/master/archinstall/locales/ta/LC_MESSAGES). [September 2022]
 
 ## Featured 
 
