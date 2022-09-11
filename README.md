@@ -26,10 +26,10 @@ Markdown ✅, HTML ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, 
 <h2><b>Interests</b></h2>
 <ul>
  <li><h3>General Interests</h3>
-Tech , Coding💻 , Biology🦠 , Overclocking PC💻 , Bug Reporting🐛 , Writing🖋️ , Retro Gaming🎮 , Benchmarking , Proofreading.
+Tech , Coding💻 , Biology🦠 , Tinkering with PC💻 , Bug Reporting🐛 , Writing🖋️ , Retro Gaming🎮, Reading.
  </li>
 <li><h3>Areas of Interests</h3>
-<b>Open Source software</b> , <b>GNU/Linux🐧</b> , Localisation , Virtualisation and Emulation , IoT , AI , Data Science , <b>Networking</b>🕸️. </li>
+<b>Open Source software</b> , <b>GNU/Linux🐧</b> , <b>Localisation</b> , Virtualisation and Emulation , IoT , AI , Data Science , <b>Networking</b>🕸️. </li>
 </ul>
 
 <b>Thanks for dropping by to view my profile🙂.<br>
