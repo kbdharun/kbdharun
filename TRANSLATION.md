@@ -46,3 +46,5 @@ Listed below are some projects that I contributed translations to
 - I got featured in [**Dialect**](https://github.com/dialect-app/dialect) as a **Transaltion Maintainer** for Tamil (ta locale) in their [**translation repository**](https://github.com/dialect-app/po). [August 2022]
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.28) for my contribution on GitHub for [**2022.8.28-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.28-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220828032713/https://usebottles.com/blog/release-2022.8.28)] [August 2022]
+
+- I got featured in [**Collision's**](https://github.com/GeopJr/Collision) [v3.1.0](https://github.com/GeopJr/Collision/releases/tag/v3.1.0) release notes for my Translation to Tamil. [September 2022]
