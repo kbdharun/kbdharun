@@ -48,3 +48,10 @@ Listed below are some projects that I contributed translations to
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.28) for my contribution on GitHub for [**2022.8.28-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.28-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220828032713/https://usebottles.com/blog/release-2022.8.28)] [August 2022]
 
 - I got featured in [**Collision's**](https://github.com/GeopJr/Collision) [v3.1.0](https://github.com/GeopJr/Collision/releases/tag/v3.1.0) release notes for my Translation to Tamil. [September 2022]
+
+## Profiles
+
+- [Fedora Weblate](https://translate.fedoraproject.org/user/kbdharun)
+- [Kodi Weblate](https://kodi.weblate.cloud/user/kbdharun)
+- [LibreOffice Weblate](https://translations.documentfoundation.org/user/kbdharunkrishna) [The Document Foundation].
+- [Transifex](https://www.transifex.com/user/profile/kbdharunkrishna)
