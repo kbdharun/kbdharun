@@ -19,7 +19,7 @@
 <ul>
 <li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">LinkedIn</a></b> profile to know more about me.</li>
 <li>I have a <b><a href="https://kbdkblogs.blogspot.com">Technology and Educational Blog</a></b> in Blogger where I make some posts occasionally  .</li>
-<li> Check out my other <a href="CONTRIBUTIONS.md"><b>Contributions</b></a> and my work in <a href="TRANSLATION.md"><b>Localisation</b></a>.</li>
+<li> Check out my other <a href="CONTRIBUTIONS"><b>Contributions</b></a> and my work in <a href="TRANSLATION"><b>Localisation</b></a>.</li>
 </ul>
 <h2><b>Languages 🛠️</b></h2>
 Markdown ✅, HTML ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, Java 📖, Rust 📖. 
