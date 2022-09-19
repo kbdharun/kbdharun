@@ -39,6 +39,10 @@ Listed below are some projects that I contributed translations to
 
 16. I translated [**Amberol**](https://gitlab.gnome.org/World/amberol) (*A small and simple sound and music player that is well integrated with GNOME*) to Tamil at GNOME l10n. [September 2022]
 
+17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit.  [September 2022]
+
+18. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit.  [September 2022]
+
 ## Featured
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
