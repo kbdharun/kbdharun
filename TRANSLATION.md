@@ -39,7 +39,7 @@ Listed below are some projects that I contributed translations to
 
 16. I translated [**Amberol**](https://gitlab.gnome.org/World/amberol) (*A small and simple sound and music player that is well integrated with GNOME*) to Tamil at GNOME l10n. [September 2022]
 
-17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit.  [September 2022]
+17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit. The translation files can be found [here](https://github.com/ventoy/Ventoy/blob/master/LANGUAGES/languages.json).  [September 2022]
 
 18. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit.  [September 2022]
 
