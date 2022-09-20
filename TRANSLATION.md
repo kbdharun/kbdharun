@@ -39,9 +39,9 @@ Listed below are some projects that I contributed translations to
 
 16. I translated [**Amberol**](https://gitlab.gnome.org/World/amberol) (*A small and simple sound and music player that is well integrated with GNOME*) to Tamil at GNOME l10n. [September 2022]
 
-17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit. The translation files can be found [here](https://github.com/ventoy/Ventoy/blob/master/LANGUAGES/languages.json).  [September 2022]
+17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/ventoy/Ventoy/blob/master/LANGUAGES/languages.json).  [September 2022]
 
-18. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit.  [September 2022]
+18. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/mjakeman/extension-manager/blob/master/po/ta.po) [September 2022]
 
 ## Featured
 
@@ -59,3 +59,7 @@ Listed below are some projects that I contributed translations to
 - [Kodi Weblate](https://kodi.weblate.cloud/user/kbdharun)
 - [LibreOffice Weblate](https://translations.documentfoundation.org/user/kbdharunkrishna) [The Document Foundation].
 - [Transifex](https://www.transifex.com/user/profile/kbdharunkrishna)
+
+## Other Works
+
+- I had contributed Tamil translations to freecodecamp and I will continue to do translations there. Unfortunately, I don't have a public profile link to display my contributions in their Crowdin Enterprise Instance.
