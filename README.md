@@ -15,6 +15,8 @@
   <li>I am a full time <code><b>Android user</b></code>, I prefer the freedom and open nature of Android.</li>
   <li>My preferred editors are Gedit, Vim, Nano in GNU/Linux and VSCode in Windows.</li>
 </ul>
+<h2><b>Chat with me</b></h2>
+  <b><a href="https://matrix.to/#/@kbdk:matrix.org">Matrix (IRC)</a></b>
 <h2><b>Know more about me and my works</b></h2>
 <ul>
 <li> Visit my <b><a href="https://www.linkedin.com/in/kbdk/">LinkedIn</a></b> profile to know more about me.</li>
