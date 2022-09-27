@@ -41,7 +41,9 @@ Listed below are some projects that I contributed translations to
 
 17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/ventoy/Ventoy/blob/master/LANGUAGES/languages.json).  [September 2022]
 
-18. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/mjakeman/extension-manager/blob/master/po/ta.po) [September 2022]
+18. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/mjakeman/extension-manager/blob/master/po/ta.po). [September 2022]
+
+19. I translated [**Breathing**](https://github.com/SeaDve/Breathing) (*Breathing is a very simple application that guides your breathing pattern.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/SeaDve/Breathing/blob/main/po/ta.po). [September 2022]
 
 ## Featured
 
