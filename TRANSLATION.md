@@ -1,4 +1,4 @@
-# My Works in Translation
+# My Works in Localisation
 
 - I think technology must be accessible to everybody, and the best way to make it more accessible is through localisation. With this goal in mind I started localising various projects to **Tamil**.
 - You can find some of my work in localisation in [**Weblate**](https://hosted.weblate.org/user/kbdharunkrishna), [**GNOME l10n**](https://l10n.gnome.org/users/kbdharunkrishna) and [**Crowdin**](https://crowdin.com/profile/kbdharun).
@@ -57,7 +57,9 @@ Listed below are some projects that I contributed translations to
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.28) for my contribution on GitHub for [**2022.8.28-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.28-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220828032713/https://usebottles.com/blog/release-2022.8.28)] [August 2022]
 
-- I got featured in [**Collision's**](https://github.com/GeopJr/Collision) [v3.1.0](https://github.com/GeopJr/Collision/releases/tag/v3.1.0) release notes for my Translation to Tamil. [September 2022]
+- I got featured in [**Collision's**](https://github.com/GeopJr/Collision) [v3.1.0](https://github.com/GeopJr/Collision/releases/tag/v3.1.0) release notes for Translating it to Tamil. [September 2022]
+
+- I got feature in [**Extension Manager's**](https://github.com/mjakeman/extension-manager) [0.4](https://github.com/mjakeman/extension-manager/releases/tag/v0.4.0) release notes for Translating it to Tamil. [October 2022]
 
 ## Profiles
 
