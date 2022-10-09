@@ -49,7 +49,7 @@ Listed below are some projects that I contributed translations to
 
 13. I translated [**Metadata Cleaner**](https://gitlab.com/rmnvgr/metadata-cleaner) (*Python GTK application to view and clean metadata in files, using mat2*) to Tamil using Weblate. The translation file can be found [here](https://gitlab.com/rmnvgr/metadata-cleaner/-/blob/main/application/po/ta.po). [September 2022]
 
-14. I translated [**Atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. [October 2022]
+14. I translated [**Atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. The translation file can be found [here](https://github.com/AtomsDevs/Atoms/blob/main/po/ta.po). [October 2022]
 
 ## Featured
 
