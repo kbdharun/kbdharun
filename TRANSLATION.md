@@ -49,6 +49,8 @@ Listed below are some projects that I contributed translations to
 
 13. I translated [**Metadata Cleaner**](https://gitlab.com/rmnvgr/metadata-cleaner) (*Python GTK application to view and clean metadata in files, using mat2*) to Tamil using Weblate. The translation file can be found [here](https://gitlab.com/rmnvgr/metadata-cleaner/-/blob/main/application/po/ta.po). [September 2022]
 
+14. I translated [**atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. [October 2022]
+
 ## Featured
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
