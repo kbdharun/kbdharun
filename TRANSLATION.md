@@ -63,6 +63,8 @@ Listed below are some projects that I contributed translations to
 
 - I got feature in [**Extension Manager's**](https://github.com/mjakeman/extension-manager) [0.4](https://github.com/mjakeman/extension-manager/releases/tag/v0.4.0) release notes for Translating it to Tamil. [October 2022]
 
+- I got featured in [**Identity's**](https://gitlab.gnome.org/YaLTeR/identity) [0.4.0](https://gitlab.gnome.org/YaLTeR/identity/-/releases/v0.4.0) release notes for translating it to Tamil. [October 2022]
+
 ## Profiles
 
 - [Fedora Weblate](https://translate.fedoraproject.org/user/kbdharun)
