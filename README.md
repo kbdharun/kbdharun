@@ -10,7 +10,7 @@
  </ul>
 <h2><b>Software Information and Preferences </b></h2>
 <ul>
-  <li>My PC🖥️ is currently running on <b><code>Windows 11 Home</code></b> and my laptop💻 is currently running on <b><code>Fedora Linux 36 (Workstation Edition)</code></b>.</li>
+  <li>My PC🖥️ is currently running on <b><code>Windows 11 Home</code></b> and my laptop💻 is currently running on <b><code>Fedora Linux 37 (Workstation Edition)</code></b>.</li>
   <li>My GNU/Linux Distributions of choice is <b><code>Fedora, Ubuntu and Arch Linux</code></b> as they work well with all my applications,games,hardware compared to other distributions. I also test drive Ubuntu, Arch Linux, Kali Linux, Fedora Silverblue, Debian testing,and much more in Virtualbox. My preferred Desktop Environments are GNOME , KDE Plasma and XFCE.</li>
   <li>I am a full time <code><b>Android user</b></code>, I prefer the freedom and open nature of Android.</li>
   <li>My preferred editors are Gedit, Vim, Nano in GNU/Linux and VSCode in Windows.</li>

@@ -51,6 +51,10 @@ Listed below are some projects that I contributed translations to
 
 14. I translated [**Atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. The translation file can be found [here](https://github.com/AtomsDevs/Atoms/blob/main/po/ta.po). [October 2022]
 
+15. I translated [Vanilla OS](https://github.com/vanilla-OS) (*A new upcoming Distribution offering on-demand Immutability and Vanilla GNOME experience based on Ubuntu*) Components such as [Vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer), [First-setup](https://github.com/Vanilla-OS/first-setup) to Tamil. [November 2022]
+
+16. I translated [Vanilla OS](https://github.com/vanilla-OS) documentation to Tamil. [November 2022]
+
 ## Featured
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
@@ -65,13 +69,15 @@ Listed below are some projects that I contributed translations to
 
 - I got featured in [**Identity's**](https://gitlab.gnome.org/YaLTeR/identity) [0.4.0](https://gitlab.gnome.org/YaLTeR/identity/-/releases/v0.4.0) release notes for translating it to Tamil. [October 2022]
 
+## Other Works
+
+- I had contributed Tamil translations to freecodecamp and I will continue to do translations there. Unfortunately, I don't have a public profile link to display my contributions in their Crowdin Enterprise Instance.
+
 ## Profiles
 
 - [Fedora Weblate](https://translate.fedoraproject.org/user/kbdharun)
 - [Kodi Weblate](https://kodi.weblate.cloud/user/kbdharun)
 - [LibreOffice Weblate](https://translations.documentfoundation.org/user/kbdharunkrishna) [The Document Foundation].
 - [Transifex](https://www.transifex.com/user/profile/kbdharunkrishna)
+- [Element Weblate](https://translate.element.io/user/kbdharun).
 
-## Other Works
-
-- I had contributed Tamil translations to freecodecamp and I will continue to do translations there. Unfortunately, I don't have a public profile link to display my contributions in their Crowdin Enterprise Instance.
