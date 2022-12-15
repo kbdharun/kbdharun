@@ -4,7 +4,8 @@
 
 ## Roles
 
-- I am currently a [collaborator](https://github.com/tldr-pages/tldr/blob/main/MAINTAINERS.md) at [tldr-pages](https://github.com/tldr-pages/tldr).
+- I am currently a [Organization member ~~collaborator~~](https://github.com/tldr-pages/tldr/blob/main/MAINTAINERS.md) at [tldr-pages](https://github.com/tldr-pages/tldr).
+- I am currently a tester and part of the docs team in [Vanilla OS](https://vanillaos.org).
 
 ## Links
 
