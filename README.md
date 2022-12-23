@@ -24,7 +24,8 @@
 <li> Check out my other <a href="CONTRIBUTIONS.md"><b>Contributions</b></a> (<a href="CONTRIBUTIONS">Link</a>) and my work in <a href="TRANSLATION.md"><b>Localisation</b></a> (<a href="TRANSLATION">Link</a>).</li>
 </ul>
 <h2><b>Languages, Applications and Frameworks 🛠️</b></h2>
-Markdown ✅, HTML ✅, git ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, Java 📖, Rust 📖, Go 📖, GTK 📖, Flatpak 📖, Emacs Lisp 📖. 
+Markdown ✅, HTML ✅, git ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, Java 📖, Rust 📖, Go 📖, GTK 📖,<br>
+Flatpak 📖, Emacs Lisp 📖, Kotlin  📖. 
 <h2><b>Interests</b></h2>
 <ul>
  <li><h3>General Interests</h3>
