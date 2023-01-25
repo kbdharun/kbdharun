@@ -51,9 +51,11 @@ Listed below are some projects that I contributed translations to
 
 14. I translated [**Atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. The translation file can be found [here](https://github.com/AtomsDevs/Atoms/blob/main/po/ta.po). [October 2022]
 
-15. I translated [Vanilla OS](https://github.com/vanilla-OS) (*A new upcoming Distribution offering on-demand Immutability and Vanilla GNOME experience based on Ubuntu*) Components such as [Vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer), [First-setup](https://github.com/Vanilla-OS/first-setup) to Tamil. [November 2022]
+15. I translated [**Vanilla OS**](https://github.com/vanilla-OS) (*A new upcoming Distribution offering on-demand Immutability and Vanilla GNOME experience based on Ubuntu*) Components such as [_Vanilla-installer_](https://github.com/Vanilla-OS/vanilla-installer), [_First-setup_](https://github.com/Vanilla-OS/first-setup) to Tamil. [November 2022]
 
-16. I translated [Vanilla OS](https://github.com/vanilla-OS) documentation to Tamil. [November 2022]
+16. I translated some parts of [**Vanilla OS**](https://github.com/vanilla-OS) documentation to Tamil. [November 2022]
+
+17. I translated [**Junction**](https://github.com/sonnyp/Junction) (*Application/Browser chooser for GNOME*) to Tamil using Weblate. [January 2023]
 
 ## Featured
 
@@ -68,6 +70,8 @@ Listed below are some projects that I contributed translations to
 - I got feature in [**Extension Manager's**](https://github.com/mjakeman/extension-manager) [0.4](https://github.com/mjakeman/extension-manager/releases/tag/v0.4.0) release notes for Translating it to Tamil. [October 2022]
 
 - I got featured in [**Identity's**](https://gitlab.gnome.org/YaLTeR/identity) [0.4.0](https://gitlab.gnome.org/YaLTeR/identity/-/releases/v0.4.0) release notes for translating it to Tamil. [October 2022]
+
+- I got features in [**Bottle's**](https://github.com/bottlesdevs/Bottles) [Release 50](https://github.com/bottlesdevs/Bottles/releases/tag/50) for fixing typos in various strings and updating the PO files. [January 2023]
 
 ## Other Works
 
