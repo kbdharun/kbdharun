@@ -59,6 +59,8 @@ Listed below are some projects that I contributed translations to
 
 26. I translated [**Workbench**](https://github.com/sonnyp/Workbench) (*Application to Learn and prototype with GNOME technologies :hammer_and_wrench:*) to Tamil using Weblate. [February 2023]
 
+27. I translated [**Cartridges**](https://github.com/kra-mo/cartridges) (*GTK4 + Libadwaita game launcher*) to Tamil. The translation file can be found [here](https://github.com/kra-mo/cartridges/blob/main/po/ta.po). [February 2023]
+
 Note: I maintain translations I started throughout the applications/programs lifespan and it isn't mentioned in the above list.
 
 ## Featured
