@@ -20,7 +20,7 @@
 <h2><b>Know more about me and my works</b></h2>
 <ul>
 <li>I have a <b><a href="https://kbdkblogs.blogspot.com">Technology and Educational Blog</a></b> in Blogger where I make some posts occasionally  .</li>
-<li> Check out my other <a href="CONTRIBUTIONS.md"><b>Contributions</b></a> (<a href="CONTRIBUTIONS">Link</a>) and my work in <a href="TRANSLATION.md"><b>Localisation</b></a> (<a href="TRANSLATION">Link</a>).</li>
+<li> Check out my other <a href="https://kbdharun.dev/contributions"><b>Contributions</b></a> and my works in <a href="https://kbdharun.dev/localisation"><b>Localisation</b></a>.</li>
 </ul>
 <h2><b>Languages, Applications and Frameworks 🛠️</b></h2>
 Markdown ✅, HTML ✅, git ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, Java 📖, Rust 📖, Go 📖, GTK 📖,<br>
