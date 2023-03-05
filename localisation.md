@@ -1,15 +1,16 @@
-# My Works in Localization
+# My Works in Localisation
 
-- I think technology must be accessible to everybody, and the best way to make it more accessible is through localisation. With this goal in mind I started localising various projects to **Tamil**.
+- I think technology must be accessible to everybody, and the best way to make it more accessible is through localisation. 
+- I started localising various projects to **Tamil** with this goal in mind.
 - You can find some of my work in localisation in [**Weblate**](https://hosted.weblate.org/user/kbdharunkrishna).
 
 ## Projects
 
-Listed below are some projects that I contributed translations to
+Listed below are some projects I contributed translations to
 
-1. In [**tldr-pages**](https://github.com/kbdharun/tldr), I translated some commands to Tamil and I review, validate translations in pull requests.
+1. In [**tldr-pages**](https://github.com/kbdharun/tldr), I translated some commands to Tamil. I also review and validate translations in pull requests over there.
 
-2. I translated [**Bottles**](https://github.com/bottlesdevs/Bottles) (*A program to manage wine prefixes and  run Windows software and games on Linux*) to Tamil using Weblate. The translation file can be found [here](https://github.com/bottlesdevs/Bottles/tree/master/po). [August 2022]
+2. I translated [**Bottles**](https://github.com/bottlesdevs/Bottles) (*A program to manage wine prefixes and run Windows software and games on Linux*) to Tamil using Weblate. The translation file can be found [here](https://github.com/bottlesdevs/Bottles/tree/master/po). [August 2022]
 
 3. I translated [**Wike**](https://github.com/hugolabe/Wike) (*A Wikipedia reader for GNOME*) to Tamil at POEditor. The translation file can be found [here](https://github.com/hugolabe/Wike/blob/master/po/ta.po). [August 2022]
 
@@ -61,15 +62,15 @@ Listed below are some projects that I contributed translations to
 
 27. I translated [**Cartridges**](https://github.com/kra-mo/cartridges) (*GTK4 + Libadwaita game launcher*) to Tamil. The translation file can be found [here](https://github.com/kra-mo/cartridges/blob/main/po/ta.po). [February 2023]
 
-Note: I maintain translations I started throughout the applications/programs lifespan and it isn't mentioned in the above list.
+Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
 ## Featured
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
 
-- I got featured in [**Dialect**](https://github.com/dialect-app/dialect) as a **Transaltion Maintainer** for Tamil (ta locale) in their [**translation repository**](https://github.com/dialect-app/po). [August 2022]
+- I got featured in [**Dialect**](https://github.com/dialect-app/dialect) as a **Translation Maintainer** for Tamil (ta locale) in their [**translation repository**](https://github.com/dialect-app/po). [August 2022]
 
-- I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.28) for my contribution on GitHub for [**2022.8.28-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.28-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220828032713/https://usebottles.com/blog/release-2022.8.28)] [August 2022]
+- I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.28) for my contribution on GitHub for [**2022.8.28-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.28-brescia) release. [August 2022]
 
 - I got featured in [**Collision's**](https://github.com/GeopJr/Collision) [v3.1.0](https://github.com/GeopJr/Collision/releases/tag/v3.1.0) release notes for Translating it to Tamil. [September 2022]
 
@@ -77,11 +78,13 @@ Note: I maintain translations I started throughout the applications/programs lif
 
 - I got featured in [**Identity's**](https://gitlab.gnome.org/YaLTeR/identity) [0.4.0](https://gitlab.gnome.org/YaLTeR/identity/-/releases/v0.4.0) release notes for translating it to Tamil. [October 2022]
 
-- I got features in [**Bottle's**](https://github.com/bottlesdevs/Bottles) [Release 50](https://github.com/bottlesdevs/Bottles/releases/tag/50) for fixing typos in various strings and updating the PO files. [January 2023]
+- I got featured in [**Bottle's**](https://github.com/bottlesdevs/Bottles) [Release 50](https://github.com/bottlesdevs/Bottles/releases/tag/50) for fixing typos in various strings and updating the PO files. [January 2023]
+
+- I got featured in [**Wine's**](https://www.winehq.org) [Release 8.1](https://www.winehq.org//announce/8.1) for contributing Tamil translations. [February 2023] (I am also featured in their [AUTHORS file](https://gitlab.winehq.org/wine/wine/-/blob/master/AUTHORS))
 
 ## Other Works
 
-- I had contributed Tamil translations to freecodecamp and I will continue to do translations there. Unfortunately, I don't have a public profile link to display my contributions in their Crowdin Enterprise Instance.
+- I contributed Tamil translations to freecodecamp, I will continue to do translations there (I don't have a public profile link to link my contributions in their Crowdin Enterprise Instance).
 
 ## Profiles
 
@@ -92,3 +95,5 @@ Note: I maintain translations I started throughout the applications/programs lif
 - [LibreOffice Weblate](https://translations.documentfoundation.org/user/kbdharunkrishna) [The Document Foundation]
 - [Transifex](https://www.transifex.com/user/profile/kbdharunkrishna)
 - [Element Weblate](https://translate.element.io/user/kbdharun)
+- [Jellyfin Weblate](https://translate.jellyfin.org/user/kbdharun/)
+- [Mattermost Weblate](https://translate.mattermost.com/user/kbdharun/)
