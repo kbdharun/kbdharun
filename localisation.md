@@ -38,7 +38,9 @@ Listed below are some projects I contributed translations to
 
 15. I translated [**Arch install**](https://github.com/archlinux/archinstall) (*Guided Arch Linux installer*) to Tamil using Poedit. The translation files can be found [here](https://github.com/archlinux/archinstall/tree/master/archinstall/locales/ta/LC_MESSAGES). [September 2022]
 
-16. I translated [**Amberol**](https://gitlab.gnome.org/World/amberol) (*A small and simple sound and music player that is well integrated with GNOME*) to Tamil at GNOME l10n. [September 2022]
+16. I translated [**Amberol**](https://gitlab.gnome.org/World/amberol) (*A small and simple sound and music player that is well integrated with GNOME*) to Tamil at GNOME l10n. [September 2022, March 2023]
+
+- I translated [**cantarell-fonts**](https://gitlab.gnome.org/GNOME/cantarell-fonts) (*The Cantarell typeface family is a contemporary Humanist sans serif, and is used by the GNOME project for its user interface*) to Tamil at GNOME l10n. The translation file can be found [here](https://gitlab.gnome.org/GNOME/cantarell-fonts/-/blob/master/appstream/ta.po). [September 2022]
 
 17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/ventoy/Ventoy/blob/master/LANGUAGES/languages.json).  [September 2022]
 
