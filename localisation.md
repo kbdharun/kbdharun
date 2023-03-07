@@ -64,6 +64,8 @@ Listed below are some projects I contributed translations to
 
 27. I translated [**Cartridges**](https://github.com/kra-mo/cartridges) (*GTK4 + Libadwaita game launcher*) to Tamil. The translation file can be found [here](https://github.com/kra-mo/cartridges/blob/main/po/ta.po). [February 2023]
 
+28. I translated [**Sticky**](https://github.com/vixalien/sticky) (*Simple note taking application for the GNOME desktop*) to Tamil. The translation file can be found [here](https://github.com/vixalien/sticky/blob/main/po/ta.po). [March 2023]
+
 Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
 ## Featured
