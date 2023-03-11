@@ -35,3 +35,5 @@ Tech , Coding💻 , Biology🦠 , Tinkering with PC💻 , Bug Reporting🐛 , Wr
 
 <b>Thanks for dropping by to view my profile🙂.<br>
 Have a nice day😄😉.</b><br>
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
