@@ -66,6 +66,8 @@ Listed below are some projects I contributed translations to
 
 28. I translated [**Sticky**](https://github.com/vixalien/sticky) (*Simple note taking application for the GNOME desktop*) to Tamil. The translation file can be found [here](https://github.com/vixalien/sticky/blob/main/po/ta.po). [March 2023]
 
+29. I translated [**Homebrew's Website**](https://brew.sh) to Tamil. The translation file can be found [here](https://github.com/Homebrew/brew.sh/blob/master/_data/locales/ta.yml). [May 2023]
+
 Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
 ## Featured
