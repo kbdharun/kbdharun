@@ -10,7 +10,7 @@
  </ul>
 <h2><b>Software Information and Preferences </b></h2>
 <ul>
-  <li>My PC🖥️ is currently running on <b>Windows 11 Home</b>, My server is running on <b>Proxmox VE</b> and my laptop💻 is currently running on <b>Fedora Linux 37 (Workstation Edition)</b>.</li>
+  <li>My PC🖥️ is currently running on <b>Windows 11 Home</b>, My server is running on <b>Proxmox VE</b> and my laptop💻 is currently running on <b>Fedora Linux 38 (Workstation Edition)</b>.</li>
   <li>My GNU/Linux Distributions of choice is <b>Fedora, Vanilla OS, Ubuntu and Arch Linux</b> as they work well with all my applications,games,hardware compared to other distributions. I also test drive Vanilla OS, Ubuntu, Arch Linux, Kali Linux, Fedora Silverblue, Debian testing,and much more in Virtualbox and my Proxmox server. My preferred Desktop Environments are GNOME , KDE Plasma and XFCE.</li>
   <li>I am a full time <i>Android user</i>, I prefer the freedom and open nature of Android.</li>
   <li>My preferred editors are Gedit, Vim, Nano in GNU/Linux and VSCode in Windows.</li>
