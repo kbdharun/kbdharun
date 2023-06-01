@@ -40,35 +40,35 @@ Listed below are some projects I contributed translations to
 
 16. I translated [**Amberol**](https://gitlab.gnome.org/World/amberol) (*A small and simple sound and music player that is well integrated with GNOME*) to Tamil at GNOME l10n. [September 2022, March 2023]
 
-- I translated [**cantarell-fonts**](https://gitlab.gnome.org/GNOME/cantarell-fonts) (*The Cantarell typeface family is a contemporary Humanist sans serif, and is used by the GNOME project for its user interface*) to Tamil at GNOME l10n. The translation file can be found [here](https://gitlab.gnome.org/GNOME/cantarell-fonts/-/blob/master/appstream/ta.po). [September 2022]
+17. I translated [**cantarell-fonts**](https://gitlab.gnome.org/GNOME/cantarell-fonts) (*The Cantarell typeface family is a contemporary Humanist sans serif, and is used by the GNOME project for its user interface*) to Tamil at GNOME l10n. The translation file can be found [here](https://gitlab.gnome.org/GNOME/cantarell-fonts/-/blob/master/appstream/ta.po). [September 2022]
 
-17. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/ventoy/Ventoy/blob/master/LANGUAGES/languages.json).  [September 2022]
+18. I translated [**Ventoy**](https://github.com/ventoy/Ventoy) (*Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/ventoy/Ventoy/blob/master/LANGUAGES/languages.json).  [September 2022]
 
-18. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/mjakeman/extension-manager/blob/master/po/ta.po). [September 2022]
+19. I translated [**Extension Manager**](https://github.com/mjakeman/extension-manager) (*A utility for browsing and installing GNOME Shell Extensions.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/mjakeman/extension-manager/blob/master/po/ta.po). [September 2022]
 
-19. I translated [**Breathing**](https://github.com/SeaDve/Breathing) (*Breathing is a very simple application that guides your breathing pattern.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/SeaDve/Breathing/blob/main/po/ta.po). [September 2022]
+20. I translated [**Breathing**](https://github.com/SeaDve/Breathing) (*Breathing is a very simple application that guides your breathing pattern.*) to Tamil using Poedit. The translation file can be found [here](https://github.com/SeaDve/Breathing/blob/main/po/ta.po). [September 2022]
 
-20. I translated [**Gradience**](https://github.com/GradienceTeam/Gradience) (*Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.*) to Tamil using Weblate. The translation file can be found [here](https://github.com/GradienceTeam/Gradience/blob/main/po/ta.po). [September 2022]
+21. I translated [**Gradience**](https://github.com/GradienceTeam/Gradience) (*Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.*) to Tamil using Weblate. The translation file can be found [here](https://github.com/GradienceTeam/Gradience/blob/main/po/ta.po). [September 2022]
 
-21. I translated [**Metadata Cleaner**](https://gitlab.com/rmnvgr/metadata-cleaner) (*Python GTK application to view and clean metadata in files, using mat2*) to Tamil using Weblate. The translation file can be found [here](https://gitlab.com/rmnvgr/metadata-cleaner/-/blob/main/application/po/ta.po). [September 2022]
+22. I translated [**Metadata Cleaner**](https://gitlab.com/rmnvgr/metadata-cleaner) (*Python GTK application to view and clean metadata in files, using mat2*) to Tamil using Weblate. The translation file can be found [here](https://gitlab.com/rmnvgr/metadata-cleaner/-/blob/main/application/po/ta.po). [September 2022]
 
-22. I translated [**Atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. The translation file can be found [here](https://github.com/AtomsDevs/Atoms/blob/main/po/ta.po). [October 2022]
+23. I translated [**Atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. The translation file can be found [here](https://github.com/AtomsDevs/Atoms/blob/main/po/ta.po). [October 2022]
 
-23. I translated [**Vanilla OS**](https://github.com/vanilla-OS) (*A new upcoming Distribution offering on-demand Immutability and Vanilla GNOME experience based on Ubuntu*) Components such as [_Vanilla-installer_](https://github.com/Vanilla-OS/vanilla-installer), [_First-setup_](https://github.com/Vanilla-OS/first-setup) to Tamil. [November 2022]
+24. I translated [**Vanilla OS**](https://github.com/vanilla-OS) (*A new upcoming Distribution offering on-demand Immutability and Vanilla GNOME experience based on Ubuntu*) Components such as [_Vanilla-installer_](https://github.com/Vanilla-OS/vanilla-installer), [_First-setup_](https://github.com/Vanilla-OS/first-setup) to Tamil. [November 2022]
 
-24. I translated some parts of [**Vanilla OS**](https://github.com/vanilla-OS) documentation to Tamil. [November 2022]
+25. I translated some parts of [**Vanilla OS**](https://github.com/vanilla-OS) documentation to Tamil. [November 2022]
 
-25. I translated [**Junction**](https://github.com/sonnyp/Junction) (*Application/Browser chooser for GNOME*) to Tamil using Weblate. [January 2023]
+26. I translated [**Junction**](https://github.com/sonnyp/Junction) (*Application/Browser chooser for GNOME*) to Tamil using Weblate. [January 2023]
 
-26. I translated [**Workbench**](https://github.com/sonnyp/Workbench) (*Application to Learn and prototype with GNOME technologies :hammer_and_wrench:*) to Tamil using Weblate. [February 2023]
+27. I translated [**Workbench**](https://github.com/sonnyp/Workbench) (*Application to Learn and prototype with GNOME technologies :hammer_and_wrench:*) to Tamil using Weblate. [February 2023]
 
-27. I translated [**Cartridges**](https://github.com/kra-mo/cartridges) (*GTK4 + Libadwaita game launcher*) to Tamil. The translation file can be found [here](https://github.com/kra-mo/cartridges/blob/main/po/ta.po). [February 2023]
+28. I translated [**Cartridges**](https://github.com/kra-mo/cartridges) (*GTK4 + Libadwaita game launcher*) to Tamil. The translation file can be found [here](https://github.com/kra-mo/cartridges/blob/main/po/ta.po). [February 2023]
 
-28. I translated [**Sticky**](https://github.com/vixalien/sticky) (*Simple note taking application for the GNOME desktop*) to Tamil. The translation file can be found [here](https://github.com/vixalien/sticky/blob/main/po/ta.po). [March 2023]
+29. I translated [**Sticky**](https://github.com/vixalien/sticky) (*Simple note taking application for the GNOME desktop*) to Tamil. The translation file can be found [here](https://github.com/vixalien/sticky/blob/main/po/ta.po). [March 2023]
 
-29. I translated [**Homebrew's Website**](https://brew.sh) to Tamil. The translation file can be found [here](https://github.com/Homebrew/brew.sh/blob/master/_data/locales/ta.yml). [May 2023]
+30. I translated [**Homebrew's Website**](https://brew.sh) to Tamil. The translation file can be found [here](https://github.com/Homebrew/brew.sh/blob/master/_data/locales/ta.yml). [May 2023]
 
-30. I translated [**Tube Converter**](https://github.com/NickvisionApps/TubeConverter) (*Get video and audio from the web*) to Tamil. The translation file can be found [here](https://github.com/NickvisionApps/TubeConverter/blob/main/NickvisionTubeConverter.Shared/Resources/po/ta.po). [June 2023]
+31. I translated [**Tube Converter**](https://github.com/NickvisionApps/TubeConverter) (*Get video and audio from the web*) to Tamil. The translation file can be found [here](https://github.com/NickvisionApps/TubeConverter/blob/main/NickvisionTubeConverter.Shared/Resources/po/ta.po). [June 2023]
 
 Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
@@ -103,5 +103,6 @@ Note: I maintain translations I started throughout the applications/program's li
 - [LibreOffice Weblate](https://translations.documentfoundation.org/user/kbdharunkrishna) [The Document Foundation]
 - [Transifex](https://www.transifex.com/user/profile/kbdharunkrishna)
 - [Element Weblate](https://translate.element.io/user/kbdharun)
-- [Jellyfin Weblate](https://translate.jellyfin.org/user/kbdharun/)
-- [Mattermost Weblate](https://translate.mattermost.com/user/kbdharun/)
+- [Jellyfin Weblate](https://translate.jellyfin.org/user/kbdharun)
+- [Mattermost Weblate](https://translate.mattermost.com/user/kbdharun)
+- [Codeberg Weblate](https://translate.codeberg.org/user/kbdharun)
