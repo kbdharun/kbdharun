@@ -72,6 +72,8 @@ Listed below are some projects I contributed translations to
 
 32. I translated [**Bavarder**](https://github.com/Bavarder/Bavarder) (*Chit-chat with an AI*) to Tamil. The translation file can be found [here](https://github.com/Bavarder/Bavarder/blob/main/po/ta.po). [June 2023]
 
+33. I translated [**Imaginer**](https://github.com/ImaginerApp/Imaginer) (*Imagine with AI*) to Tamil. The translation file can be found [here](https://github.com/ImaginerApp/Imaginer/blob/master/po/ta.po). [June 2023]
+
 Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
 ## Featured
