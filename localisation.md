@@ -70,6 +70,8 @@ Listed below are some projects I contributed translations to
 
 31. I translated [**Tube Converter**](https://github.com/NickvisionApps/TubeConverter) (*Get video and audio from the web*) to Tamil. The translation file can be found [here](https://github.com/NickvisionApps/TubeConverter/blob/main/NickvisionTubeConverter.Shared/Resources/po/ta.po). [June 2023]
 
+32. I translated [**Bavarder**](https://github.com/Bavarder/Bavarder) (*Chit-chat with an AI*) to Tamil. The translation file can be found [here](https://github.com/Bavarder/Bavarder/blob/main/po/ta.po). [June 2023]
+
 Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
 ## Featured
