@@ -60,7 +60,7 @@ Listed below are some projects I contributed translations to
 
 26. I translated [**Junction**](https://github.com/sonnyp/Junction) (*Application/Browser chooser for GNOME*) to Tamil using Weblate. [January 2023]
 
-27. I translated [**Workbench**](https://github.com/sonnyp/Workbench) (*Application to Learn and prototype with GNOME technologies :hammer_and_wrench:*) to Tamil using Weblate. [February 2023]
+27. I translated [**Workbench**](https://github.com/sonnyp/Workbench) (*Application to Learn and prototype with GNOME technologies 🛠️*) to Tamil using Weblate. [February 2023]
 
 28. I translated [**Cartridges**](https://github.com/kra-mo/cartridges) (*GTK4 + Libadwaita game launcher*) to Tamil. The translation file can be found [here](https://github.com/kra-mo/cartridges/blob/main/po/ta.po). [February 2023]
 
@@ -80,8 +80,6 @@ Note: I maintain translations I started throughout the applications/program's li
 
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.14) for my contribution on GitHub for [**2022.8.14-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.14-brescia) release. [[*Archived link to the webpage*](https://web.archive.org/web/20220819131832/https://usebottles.com/blog/release-2022.8.14/)] [August 2022]
 
-- I got featured in [**Dialect**](https://github.com/dialect-app/dialect) as a **Translation Maintainer** for Tamil (ta locale) in their [**translation repository**](https://github.com/dialect-app/po). [August 2022]
-
 - I got featured in [**Bottles**](https://github.com/bottlesdevs/Bottles) [**website**](https://usebottles.com/blog/release-2022.8.28) for my contribution on GitHub for [**2022.8.28-brescia**](https://github.com/bottlesdevs/Bottles/releases/tag/2022.8.28-brescia) release. [August 2022]
 
 - I got featured in [**Collision's**](https://github.com/GeopJr/Collision) [v3.1.0](https://github.com/GeopJr/Collision/releases/tag/v3.1.0) release notes for Translating it to Tamil. [September 2022]
@@ -96,7 +94,7 @@ Note: I maintain translations I started throughout the applications/program's li
 
 ## Other Works
 
-- I contributed Tamil translations to freecodecamp, I will continue to do translations there (I don't have a public profile link to link my contributions in their Crowdin Enterprise Instance).
+- I contributed Tamil translations to freecodecamp, and I will continue to do translations there (I don't have a public profile link to link my contributions in their Crowdin Enterprise Instance).
 
 ## Profiles
 
