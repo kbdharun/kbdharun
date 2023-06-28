@@ -68,7 +68,7 @@ Listed below are some projects I contributed translations to
 
 30. I translated [**Homebrew's Website**](https://brew.sh) to Tamil. The translation file can be found [here](https://github.com/Homebrew/brew.sh/blob/master/_data/locales/ta.yml). [May 2023]
 
-31. I translated [**Tube Converter**](https://github.com/NickvisionApps/TubeConverter) (*Get video and audio from the web*) to Tamil. The translation file can be found [here](https://github.com/NickvisionApps/TubeConverter/blob/main/NickvisionTubeConverter.Shared/Resources/po/ta.po). [June 2023]
+31. I translated [**Parabolic**](https://github.com/NickvisionApps/Parabolic) (*Get video and audio from the web*) to Tamil. The translation file can be found [here](https://github.com/NickvisionApps/Parabolic/blob/main/NickvisionTubeConverter.Shared/Resources/po/ta.po). [June 2023]
 
 32. I translated [**Bavarder**](https://github.com/Bavarder/Bavarder) (*Chit-chat with an AI*) to Tamil. The translation file can be found [here](https://github.com/Bavarder/Bavarder/blob/main/po/ta.po). [June 2023]
 
