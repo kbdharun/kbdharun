@@ -74,6 +74,8 @@ Listed below are some projects I contributed translations to
 
 33. I translated [**Imaginer**](https://github.com/ImaginerApp/Imaginer) (*Imagine with AI*) to Tamil. The translation file can be found [here](https://github.com/ImaginerApp/Imaginer/blob/master/po/ta.po). [June 2023]
 
+34. I translated [**Apx GUI**](https://github.com/Vanilla-OS/apx-gui) (*A frontend in GTK 4 and Libadwaita for Apx*) to Tamil. The translation file can be found [here](https://github.com/Vanilla-OS/apx-gui/blob/main/po/ta.po). [July 2023]
+
 Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
 ## Featured
