@@ -3,17 +3,17 @@
 <h2><b>About Me</b></h2>
 <ul>
   <li><b> Hi👋,This is K.B.Dharun Krishna</b> (he/him) from <b>India</b>.</li>
-  <li>I code in my free time. I know some Programming Languages,Applications and I am planning to learn more in the future.</li>
+  <li>I code in my free time. I know some Programming Languages, Applications and I am planning to learn more in the future.</li>
   <li>I am obsessed with GNU/Linux 🐧 & Opensource Software(OSS).</li>
   <li>I love writing and I am a passionate content writer. I write and work on articles and blog posts in my free time. </li>
-  <li>I aim to make a small difference by contributing to various projects. And I am currently working on improving our current generation's technologies by localising it and making it accessible to everybody.</li>
+  <li>I aim to make a small difference by contributing to various projects. And I am currently working on improving our current generation's technologies by localising them and making them accessible to everybody.</li>
  </ul>
 <h2><b>Software Information and Preferences </b></h2>
 <ul>
   <li>My PC🖥️ is currently running on <b>Windows 11 Home</b>, My server is running on <b>Proxmox VE</b> and my laptop💻 is currently running on <b>Fedora Linux 38 (Workstation Edition)</b>.</li>
-  <li>My GNU/Linux Distributions of choice is <b>Fedora, Vanilla OS, Ubuntu and Arch Linux</b> as they work well with all my applications,games,hardware compared to other distributions. I also test drive Vanilla OS, Ubuntu, Arch Linux, Kali Linux, Fedora Silverblue, Debian testing,and much more in Virtualbox and my Proxmox server. My preferred Desktop Environments are GNOME , KDE Plasma and XFCE.</li>
+  <li>My GNU/Linux Distributions of choice are <b>Fedora, Vanilla OS and Arch Linux</b> as they work well with all my applications, games, and hardware compared to other distributions. I also test drive a lot of distros in Virtualbox and my Proxmox server. My preferred Desktop Environments are GNOME, KDE Plasma and XFCE.</li>
   <li>I am a full time <i>Android user</i>, I prefer the freedom and open nature of Android.</li>
-  <li>My preferred editors are Gedit, Vim, Nano in GNU/Linux and VSCode in Windows.</li>
+  <li>My preferred editors are Gedit, Vim, and Nano in GNU/Linux and VSCode in Windows.</li>
 </ul>
 <h2><b>Chat with me</b></h2>
   <b><a href="https://matrix.to/#/@kbdk:matrix.org">Matrix (IRC)</a></b>
@@ -30,7 +30,7 @@ Markdown ✅, HTML ✅, git ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Pyth
 Tech , Coding💻 , Biology🦠 , Tinkering with PC💻 , Bug Reporting🐛 , Writing🖋️ , Retro Gaming🎮, Reading.
  </li>
 <li><h3>Areas of Interests</h3>
-<b>Open Source software</b> , <b>GNU/Linux🐧</b> , <b>Localisation</b> , Virtualisation and Emulation , IoT , AI , Data Science , <b>Networking</b>🕸️. </li>
+<b>Open Source software</b>, <b>GNU/Linux🐧</b>, <b>Localisation</b>, Virtualisation and Emulation, IoT, AI, Data Science, <b>Networking</b>🕸️. </li>
 </ul>
 
 <b>Thanks for dropping by to view my profile🙂.<br>
