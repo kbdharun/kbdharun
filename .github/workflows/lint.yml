@@ -6,6 +6,7 @@ on:
   pull_request:
     branches: [main]
     types: [opened, synchronize, ready_for_review, edited]
+  workflow_dispatch:
 
 jobs:
     markdownlint:
