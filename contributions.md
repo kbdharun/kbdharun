@@ -12,9 +12,7 @@
 ## Works
 
 - I am an active maintainer in [tldr-pages](https://github.com/tldr-pages/tldr), and I have been reviewing hundreds of pull requests, writing and translating cheat sheets for various commands since 2022.
-- I have written man pages and various guides in the handbook for [Vanilla OS](https://vanillaos.org).
-- I have written help pages accessible through GNOME help (*yelp*) for [Vanilla control center](https://github.com/Vanilla-OS/vanilla-control-center).
-- I occasionally test and update the packages in the base for Vanilla OS, write docs and manage translations.
+- I occasionally test and update the packages in the base for [Vanilla OS](https://vanillaos.org), write docs and manage translations.
 
 ## Other Links
 

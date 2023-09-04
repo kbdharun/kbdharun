@@ -1,6 +1,6 @@
 # My Works in Localisation
 
-- I think technology must be accessible to everybody, and the best way to make it more accessible is through localisation. 
+- I think technology must be accessible to everybody, and the best way to make it more accessible is through localisation.
 - I started localising various projects to **Tamil** with this goal in mind.
 - You can find some of my work in localisation in [**Weblate**](https://hosted.weblate.org/user/kbdharunkrishna).
 
@@ -54,7 +54,7 @@ Listed below are some projects I contributed translations to
 
 23. I translated [**Atoms**](https://github.com/AtomsDevs/Atoms) (*An application to easily manage Linux Chroot(s) and Containers*) to Tamil using Poedit. The translation file can be found [here](https://github.com/AtomsDevs/Atoms/blob/main/po/ta.po). [October 2022]
 
-24. I translated [**Vanilla OS**](https://github.com/vanilla-OS) (*A new upcoming Distribution offering on-demand Immutability and Vanilla GNOME experience based on Ubuntu*) Components such as [_Vanilla-installer_](https://github.com/Vanilla-OS/vanilla-installer), [_First-setup_](https://github.com/Vanilla-OS/first-setup) to Tamil. [November 2022]
+24. I translated [**Vanilla OS**](https://github.com/vanilla-OS) (*A new upcoming Distribution offering on-demand Immutability and Vanilla GNOME experience based on Ubuntu*) Components such as [Vanilla-installer](https://github.com/Vanilla-OS/vanilla-installer), [First-setup](https://github.com/Vanilla-OS/first-setup) to Tamil. [November 2022]
 
 25. I translated some parts of [**Vanilla OS**](https://github.com/vanilla-OS) documentation to Tamil. [November 2022]
 
