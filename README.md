@@ -23,7 +23,7 @@
 <li> Check out my other <a href="https://kbdharun.dev/contributions"><b>Contributions</b></a> and my works in <a href="https://kbdharun.dev/localisation"><b>Localisation</b></a>.</li>
 </ul>
 <h2><b>Languages, Applications and Frameworks 🛠️</b></h2>
-Markdown ✅, HTML ✅, git ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, Java 📖, Rust 📖, Go 📖, GTK 📖, Flatpak 📖, Emacs Lisp 📖, Kotlin  📖, SQL 📖. 
+Markdown ✅, HTML ✅, git ✅, CSS 📖, Javascript 📖, C ✅, C++ ✅, Python 📖, Java 📖, Rust 📖, Go 📖, GTK 📖, Flatpak 📖, Emacs Lisp 📖, Kotlin  📖, SQL 📖.
 <h2><b>Interests</b></h2>
 <ul>
  <li><h3>General Interests</h3>
