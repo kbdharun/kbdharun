@@ -76,6 +76,8 @@ Listed below are some projects I contributed translations to
 
 34. I translated [**Apx GUI**](https://github.com/Vanilla-OS/apx-gui) (*A frontend in GTK 4 and Libadwaita for Apx*) to Tamil. The translation file can be found [here](https://github.com/Vanilla-OS/apx-gui/blob/main/po/ta.po). [July 2023]
 
+35. I translated [**Parabolic's Documentation**](https://github.com/NickvisionApps/Parabolic) (*Get video and audio from the web*) to Tamil. The translation file can be found [here](https://github.com/NickvisionApps/Parabolic/blob/main/NickvisionTubeConverter.Shared/Docs/po/ta.po). [August 2023]
+
 Note: I maintain translations I started throughout the applications/program's lifespan and it isn't mentioned in the above list.
 
 ## Featured
