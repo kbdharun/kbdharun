@@ -1,4 +1,4 @@
-![Header Cover Banner Image](https://github.com/kbdharun/kbdharun/blob/main/kbdk-header-file.png)
+![Header Cover Banner Image](/kbdk-header-file.png)
 <!-- Header Cover Banner Image created using Canva -->
 <h2><b>About Me</b></h2>
 <ul>
