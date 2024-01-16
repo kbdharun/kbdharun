@@ -10,8 +10,8 @@
  </ul>
 <h2><b>Software Information and Preferences </b></h2>
 <ul>
-  <li>My PC🖥️ is currently running on <b>Windows 11 Home</b>, My server is running on <b>Ubuntu LTS</b> and my laptop💻 is currently running on <b>Fedora Linux 39 (Workstation Edition)</b>.</li>
-  <li>My GNU/Linux Distributions of choice are <b>Fedora, Vanilla OS and Arch Linux</b> as they work well with all my applications, games, and hardware compared to other distributions. I also test drive a lot of distros in Virtualbox and GNOME Boxes. My preferred Desktop Environments are GNOME, KDE Plasma and XFCE.</li>
+  <li>My PC🖥️ is currently running on <b>Windows 11 Home</b>, My server is running on <b>Proxmox VE</b> and my laptop💻 is currently running on <b>Fedora Linux 39 (Workstation Edition)</b>.</li>
+  <li>My GNU/Linux Distributions of choice are <b>Fedora, Vanilla OS and Arch Linux</b> as they work well with all my applications, games, and hardware compared to other distributions. My preferred Desktop Environments are GNOME, KDE Plasma and XFCE.</li>
   <li>I am a full time <i>Android user</i>, I prefer the freedom and open nature of Android.</li>
   <li>My preferred editors are Vim, and Nano in GNU/Linux and VSCode in Windows.</li>
 </ul>
