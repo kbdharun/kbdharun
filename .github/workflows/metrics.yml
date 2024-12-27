@@ -22,11 +22,6 @@ jobs:
           config_display: large
 
           # Plugin Options
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-
           plugin_discussions: yes
           plugin_discussions_categories: yes
 
@@ -36,7 +31,7 @@ jobs:
           plugin_introduction_title: yes
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -56,7 +51,7 @@ jobs:
           plugin_lines_sections: base
 
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_indepth: yes
           plugin_notable_types: commit
 
           plugin_sponsorships: yes
@@ -69,9 +64,3 @@ jobs:
           plugin_topics_sort: stars
 
           plugin_traffic: yes
-
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_threshold: X
