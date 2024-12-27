@@ -1,9 +1,10 @@
 name: Generate Profile Metrics
 on:
   schedule: [{cron: "0 16 * * *"}]
-  workflow_dispatch:
   push:
     branches: ["main"]
+  workflow_dispatch:
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -51,6 +52,7 @@ jobs:
           plugin_lines_sections: base
 
           plugin_notable: yes
+          plugin_notable_from: organization
           plugin_notable_indepth: yes
           plugin_notable_types: commit
 
