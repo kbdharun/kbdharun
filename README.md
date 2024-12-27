@@ -26,7 +26,7 @@
 **Development**:
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/kbdharun)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=fff)](https://www.npmjs.com/~kbdharun)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=fff)](https://huggingface.co/kbdharun)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm)](https://www.npmjs.com/~kbdharun)
 
 **Gaming**:
@@ -37,7 +37,7 @@
 **Other**:
 
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=fff)](https://linktr.ee/kbdharun)
-[![Weblate](https://img.shields.io/badge/Weblate-2ECCAA?logo=weblate&logoColor=fff)](https://fosstodon.org/@kbdharun)
+[![Weblate](https://img.shields.io/badge/Weblate-2ECCAA?logo=weblate&logoColor=fff)](https://hosted.weblate.org/user/kbdharunkrishna)
 
 </details>
 
