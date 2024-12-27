@@ -1,10 +1,10 @@
-![GitHub Profile Metrics](github-metrics.svg)
+[![GitHub Profile Metrics](github-metrics.svg)](https://kbdharun.dev)
 
 ## About Me
 
 - Hi, I'm **Dharun** from India, a developer, casual gamer and passionate writer with a strong advocacy for open-source software. I contribute to various projects aimed at driving innovation and positive change, while continuously learning and growing myself.
 
-- My devices are currently running **Windows 11 Home**, **Proxmox VE**, **Fedora Linux 41** (_Workstation Edition with GNOME_) and **Android** 📱.
+- My devices are currently running **Windows 11**, **Proxmox VE**, **Fedora Linux 41** (_Workstation Edition with GNOME_) and **Android** 📱.
 
 ## Connect
 
