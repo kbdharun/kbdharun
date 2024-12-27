@@ -27,4 +27,4 @@ jobs:
 
         - uses: codespell-project/actions-codespell@v2
           with:
-            exclude_file: *.svg
+            exclude_file: github-metrics.svg
