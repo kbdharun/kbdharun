@@ -25,14 +25,15 @@
 
 **Development**:
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/kbdharun)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=fff)](https://huggingface.co/kbdharun)
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm)](https://www.npmjs.com/~kbdharun)
+[![Kaggle](https://img.shields.io/badge/Kaggle-kbdharun-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/kbdharun)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-kbdharun-FFD21E?logo=huggingface&logoColor=fff)](https://huggingface.co/kbdharun)
+[![npm](https://img.shields.io/badge/npm-kbdharun-CB3837?logo=npm)](https://www.npmjs.com/~kbdharun)
 
 **Gaming**:
 
-[![Steam](https://img.shields.io/badge/Steam-@kbdkgamer-000000?logo=steam&logoColor=fff)](https://steamcommunity.com/id/kbdkgamer)
-[![GOG](https://img.shields.io/badge/GOG-@kbdk-86328A?logo=gogdotcom&logoColor=fff)](https://www.gog.com/u/kbdk)
+[![Steam](https://img.shields.io/badge/Steam-kbdkgamer-000000?logo=steam&logoColor=fff)](https://steamcommunity.com/id/kbdkgamer)
+[![GOG](https://img.shields.io/badge/GOG-u/kbdk-86328A?logo=gogdotcom&logoColor=fff)](https://www.gog.com/u/kbdk)
+[![Epic Games](https://img.shields.io/badge/Epic_Games-kbdkgamer-313131?logo=epicgames&logoColor=fff)](https://launcher.store.epicgames.com/u/5fa6149f50804c72aa0272c5dc452f82)
 
 **Other**:
 
